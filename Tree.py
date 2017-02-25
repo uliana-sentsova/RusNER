@@ -1,10 +1,8 @@
-from Token import RootToken
 class Tree:
 
     def __init__(self, n=1):
         self.n = n
         self.array = [None] * (n)
-        # self.array[0] = RootToken()
 
     def add_elem(self, ind, val):
         self.array[ind] = val
