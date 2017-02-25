@@ -17,8 +17,8 @@ class Token:
         self.pos = conll_line[3]
         self.grammar = conll_line[4]
         self.syntax = conll_line[-3]
-        self.parent = int(conll_line[-4])
-        self.number = int(conll_line[0])
+        self.parent = int(conll_line[-4]) - 1
+        self.number = int(conll_line[0]) - 1
 
 
 class RootToken():

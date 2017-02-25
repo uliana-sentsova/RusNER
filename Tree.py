@@ -3,8 +3,8 @@ class Tree:
 
     def __init__(self, n=1):
         self.n = n
-        self.array = [None] * (n + 1)
-        self.array[0] = RootToken()
+        self.array = [None] * (n)
+        # self.array[0] = RootToken()
 
     def add_elem(self, ind, val):
         self.array[ind] = val
@@ -19,6 +19,11 @@ class Tree:
             if token.parent == val:
                 children.append(token)
         return children
+
+    def get_root(self):
+        for token in self.array:
+            if token.parent == -1:
+                return token
 
     def get_all_children(self, val):
         all_children = []

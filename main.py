@@ -34,8 +34,47 @@ for sent in sentences:
         tree.add_elem(token.number, token)
     trees.append(tree)
 
-t = trees[2]
-print([(token.surface, token.number, token.parent) for token in t.array])
+tree = trees[2]
+print([(token.surface, token.pos, token.parent) for token in tree.array])
 
-children = t.get_all_children(2)
+
+NPs = {}
+in_NP = []
+root = tree.get_root()
+print(root.surface)
+children = tree.get_children(root.number)
 print([ch.surface for ch in children])
+
+
+# for token in tree.array:
+#     if token.pos == "S":
+#         children = tree.get_all_children(token.number)
+#         print([token.surface] + [ch.surface for ch in children])
+#         if not children:
+#             continue
+#
+#         for child in children + [token]:
+#             if child not in NPs:
+#                 NPs[child.number] = [token] + children
+#
+#             if len(children) + 1 > len(NPs[child.number]):
+#                 NPs[child.number] = [token] + children
+#
+#         #
+#         # if token.number in NPs:
+#         #     if len(NPs[token.number]) > len(children) + 1:
+#         #         NPs[token.number] = [token] + children
+#         # else:
+#         #     NPs[token.number] = [token] + children
+#
+# for key in NPs:
+#     print(key, [token.surface for token in NPs[key]])
+
+        # if child.number in in_NP and len
+        # for child in children: in_NP[child.number] = children
+        #
+        # print([ch.surface for ch in children])
+
+#
+# children = t.get_all_children(2)
+# print([ch.surface for ch in children])
