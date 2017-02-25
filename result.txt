@@ -1,0 +1,465 @@
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	дальше	ДАЛЕКО	ADV	ADV comp	ADV comp	2	обст	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Сегодняшнее	СЕГОДНЯШНИЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+2	решение	РЕШЕНИЕ	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	подлежит	ПОДЛЕЖАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	обжалованию	ОБЖАЛОВАНИЕ	S	S n inan dat sg	S n inan dat sg	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Финальное	ФИНАЛЬНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+2	решение	РЕШЕНИЕ	S	S n inan nom sg	S n inan nom sg	9	предик	_	_
+3	об	ОБ	PR	PR	PR	2	2-компл	_	_
+4	экстрадиции	ЭКСТРАДИЦИЯ	S	S f inan dat sg	S f inan dat sg	3	предл	_	_
+5	Фирташа	ФИРТАША	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	в	В	PR	PR	PR	4	атриб	_	_
+7	США	США	S	S - inan loc pl	S - inan loc pl	6	предл	_	_
+8	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	9	обст	_	_
+9	должен	ДОЛЖНЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+10	принять	ПРИНИМАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+11	лично	ЛИЧНО	ADV	ADV -	ADV -	12	огранич	_	_
+12	министр	МИНИСТР	S	S m anim nom sg	S m anim nom sg	9	разъяснит	_	_
+13	юстиции	ЮСТИЦИЯ	S	S f inan gen sg	S f inan gen sg	12	1-компл	_	_
+14	Австрии	АВСТРИЯ	S	S f inan gen sg	S f inan gen sg	13	квазиагент	_	_
+15	Вольфганг	ВОЛЬФГАНГ	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+16	Брандстеттер	БРАНДСТЕТТЕР	S	S m anim nom sg	S m anim nom sg	15	аппоз	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	сообщает	СООБЩАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	9	вводн	_	_
+19	австрийское	АВСТРИЙСКИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	18	предик	_	_
+20	издание	ИЗДАНИЕ	S	S n inan acc sg	S n inan acc sg	19	1-компл	_	_
+21	Kurier	KURIER	NONLEX	NONLEX	NONLEX	20	аппоз	_	_
+22	со	СО	PR	PR	PR	18	обст	_	_
+23	ссылкой	ССЫЛКА	S	S f inan ins sg	S f inan ins sg	22	предл	_	_
+24	на	НА	PR	PR	PR	23	1-компл	_	_
+25	председателя	ПРЕДСЕДАТЕЛЬ	S	S m anim gen sg	S m anim gen sg	24	предл	_	_
+26	судебной	СУДЕБНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	27	опред	_	_
+27	коллегии	КОЛЛЕГИЯ	S	S f inan gen sg	S f inan gen sg	25	1-компл	_	_
+28	Левнаича	ЛЕВНАИЧ	S	S m anim acc sg	S m anim acc sg	18	1-компл	_	_
+29	-	-	-	-	PUNC	28	PUNC	_	_
+30	Ивански	ИВАНСКИ	ADV	ADV -	ADV -	18	обст	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	Австрийский	АВСТРИЙСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	представитель	ПРЕДСТАВИТЕЛЬ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+3	Фирташа	ФИРТАША	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	Даниэль	ДАНИЭЛЬ	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+5	Капп	КАППА	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	перенаправил	ПЕРЕНАПРАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	вопросы	ВОПРОС	S	S m inan acc pl	S m inan acc pl	6	1-компл	_	_
+8	РБК	РБК	NONLEX	NONLEX	NONLEX	7	аппоз	_	_
+9	юристам	ЮРИСТ	S	S m anim dat pl	S m anim dat pl	6	2-компл	_	_
+10	бизнесмена	БИЗНЕСМЕН	S	S m anim gen sg	S m anim gen sg	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	юрфирма	ЮРФИРМА	S	S m inan gen sg	S m inan gen sg	9	атриб	_	_
+13	B	B	NONLEX	NONLEX	NONLEX	12	аппоз	_	_
+14	&	&	&	&	PUNC	6	1-компл	_	_
+15	S	S	NONLEX	NONLEX	NONLEX	14	аппоз	_	_
+16	Böhmdorfer	BÖHMDORFER	NONLEX	NONLEX	NONLEX	15	аппоз	_	_
+17	Schender	SCHENDER	NONLEX	NONLEX	NONLEX	16	аппоз	_	_
+18	Rechtsanwälte	RECHTSANWÄLTE	NONLEX	NONLEX	NONLEX	17	аппоз	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	ответила	ОТВЕЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	сент-соч	_	_
+21	на	НА	PR	PR	PR	20	1-компл	_	_
+22	запрос	ЗАПРОС	S	S m inan acc sg	S m inan acc sg	21	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Пресс-служба	ПРЕСС-СЛУЖБА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+2	Минюста	МИНЮСТ	S	S m inan gen sg	S m inan gen sg	1	1-компл	_	_
+3	Австрии	АВСТРИЯ	S	S f inan gen sg	S f inan gen sg	2	квазиагент	_	_
+4	тоже	ТОЖЕ	PART	PART	PART	6	огранич	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	ответила	ОТВЕЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Позже	ПОЗДНО	ADV	ADV comp2	ADV comp2	4	обст	_	_
+2	защита	ЗАЩИТА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+3	Фирташа	ФИРТАША	S	S f anim nom sg	S f anim nom sg	2	аппоз	_	_
+4	распространила	РАСПРОСТРАНЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	заявление	ЗАЯВЛЕНИЕ	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	из	ИЗ	PR	PR	PR	9	1-компл	_	_
+8	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	предл	_	_
+9	следует	СЛЕДОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	релят	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	9	предик	_	_
+12	у	У	PR	PR	PR	15	обст	_	_
+13	бизнесмена	БИЗНЕСМЕН	S	S m anim gen sg	S m anim gen sg	12	предл	_	_
+14	еще	ЕЩЕ	ADV	ADV -	ADV -	15	огранич	_	_
+15	остается	ОСТАВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	подч-союзн	_	_
+16	возможность	ВОЗМОЖНОСТЬ	S	S f inan acc sg	S f inan acc sg	15	присвяз	_	_
+17	оспорить	ОСПАРИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	16	1-компл	_	_
+18	вердикт	ВЕРДИКТ	S	S m inan acc sg	S m inan acc sg	17	1-компл	_	_
+19	апелляционного	АПЕЛЛЯЦИОННЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+20	суда	СУД	S	S m inan gen sg	S m inan gen sg	18	квазиагент	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	6	предик	_	_
+3	предпримем	ПРЕДПРИНИМАТЬ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	6	опред	_	_
+4	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+5	доступные	ДОСТУПНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+6	шаги	ШАГ	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+7	для	ДЛЯ	PR	PR	PR	6	атриб	_	_
+8	обжалования	ОБЖАЛОВАНИЕ	S	S n inan gen sg	S n inan gen sg	7	предл	_	_
+9	этого	ЭТОТ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+10	решения	РЕШЕНИЕ	S	S n inan gen sg	S n inan gen sg	8	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	в том числе	в том числе	ADV	ADV -	-	13	огранич	_	_
+13	через	ЧЕРЕЗ	PR	PR	PR	27	обст	_	_
+14	Верховный	ВЕРХОВНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	15	опред	_	_
+15	суд	СУД	S	S m inan acc sg	S m inan acc sg	13	предл	_	_
+16	Австрии	АВСТРИЯ	S	S f inan gen sg	S f inan gen sg	15	квазиагент	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	а также	а также	CONJ	CONJ	ZERO	13	сочин	_	_
+19	через	ЧЕРЕЗ	PR	PR	PR	18	соч-союзн	_	_
+20	Европейский	ЕВРОПЕЙСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	21	опред	_	_
+21	суд	СУД	S	S m inan acc sg	S m inan acc sg	19	предл	_	_
+22	по	ПО	PR	PR	PR	21	атриб	_	_
+23	правам	ПРАВО	S	S n inan dat pl	S n inan dat pl	22	предл	_	_
+24	человека	ЧЕЛОВЕК	S	S m anim gen sg	S m anim gen sg	23	квазиагент	_	_
+25	»	»	_	_	PUNC	24	PUNC	_	_
+26	,	,	,	,	PUNC	24	PUNC	_	_
+27	—	—	—	—	PUNC	6	опред	_	_
+28	говорится	ГОВОРИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	вводн	_	_
+29	в	В	PR	PR	PR	28	обст	_	_
+30	заявлении	ЗАЯВЛЕНИЕ	S	S n inan loc sg	S n inan loc sg	29	предл	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	Почему	ПОЧЕМУ	ADV	ADV -	ADV -	3	обст	_	_
+2	Фирташа	ФИРТАША	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	арестовали	АРЕСТОВЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Когда	КОГДА	ADV	ADV -	ADV -	9	обст	_	_
+2	Фирташ	ФИРТАШ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+3	в	В	PR	PR	PR	2	атриб	_	_
+4	сопровождении	СОПРОВОЖДЕНИЕ	S	S n inan loc sg	S n inan loc sg	3	предл	_	_
+5	родных	РОДНЫЕ	S	S - anim gen pl	S - anim gen pl	4	квазиагент	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+7	адвокатов	АДВОКАТ	S	S m anim gen pl	S m anim gen pl	6	соч-союзн	_	_
+8	уже	УЖЕ	ADV	ADV -	ADV -	9	огранич	_	_
+9	собирался	СОБИРАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+10	покидать	ПОКИДАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	9	1-компл	_	_
+11	здание	ЗДАНИЕ	S	S n inan acc sg	S n inan acc sg	10	1-компл	_	_
+12	суда	СУД	S	S m inan gen sg	S m inan gen sg	11	квазиагент	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	16	предик	_	_
+15	неожиданно	НЕОЖИДАННО	ADV	ADV -	ADV -	16	обст	_	_
+16	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	9	сент-соч	_	_
+17	задержан	ЗАДЕРЖИВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	16	пасс-анал	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Как	КАК	ADV	ADV -	ADV -	2	обст	_	_
+2	пояснила	ПОЯСНЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	журналистам	ЖУРНАЛИСТ	S	S m anim dat pl	S m anim dat pl	2	2-компл	_	_
+4	представитель	ПРЕДСТАВИТЕЛЬ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+5	венской	ВЕНСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+6	прокуратуры	ПРОКУРАТУРА	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	арест	АРЕСТ	S	S m inan nom sg	S m inan nom sg	11	предик	_	_
+9	формально	ФОРМАЛЬНО	ADV	ADV -	ADV -	11	обст	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	связан	СВЯЗАННЫЙ	A	A - - sg brev m -	A - - sg brev m -	2	сент-соч	_	_
+12	с	С	PR	PR	PR	11	1-компл	_	_
+13	решением	РЕШЕНИЕ	S	S n inan ins sg	S n inan ins sg	12	предл	_	_
+14	об	ОБ	PR	PR	PR	13	2-компл	_	_
+15	экстрадиции	ЭКСТРАДИЦИЯ	S	S f inan dat sg	S f inan dat sg	14	предл	_	_
+16	в	В	PR	PR	PR	15	атриб	_	_
+17	США	США	S	S - inan loc pl	S - inan loc pl	16	предл	_	_
+18	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+19	основан	ОСНОВЫВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	18	соч-союзн	_	_
+20	на	НА	PR	PR	PR	19	обст	_	_
+21	отдельном	ОТДЕЛЬНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	22	опред	_	_
+22	запросе	ЗАПРОС	S	S m inan loc sg	S m inan loc sg	20	предл	_	_
+23	испанских	ИСПАНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	24	опред	_	_
+24	властей	ВЛАСТЬ	S	S f inan gen pl	S f inan gen pl	22	квазиагент	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	В	В	PR	PR	PR	7	обст	_	_
+2	ноябре	НОЯБРЬ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	2016	2016	NUM	NUM - - -	NUM - - -	4	опред	_	_
+4	года	ГОД	S	S m inan gen sg	S m inan gen sg	2	атриб	_	_
+5	суд	СУД	S	S m inan nom sg	S m inan nom sg	7	предик	_	_
+6	Барселоны	БАРСЕЛОНА	S	S f inan gen sg	S f inan gen sg	5	квазиагент	_	_
+7	выдал	ВЫДАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	общеевропейский	ОБЩЕЕВРОПЕЙСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	9	опред	_	_
+9	ордер	ОРДЕР	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+10	на	НА	PR	PR	PR	9	1-компл	_	_
+11	арест	АРЕСТ	S	S m inan acc sg	S m inan acc sg	10	предл	_	_
+12	Фирташа	ФИРТАША	S	S m anim gen sg	S m anim gen sg	11	квазиагент	_	_
+13	:	:	:	:	PUNC	23	предик	_	_
+14	как	КАК	CONJ	CONJ	CONJ	13	сравнит	_	_
+15	писала	ПИСАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	14	сравн-союзн	_	_
+16	испанская	ИСПАНСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	17	опред	_	_
+17	газета	ГАЗЕТА	S	S f inan nom sg	S f inan nom sg	15	предик	_	_
+18	El	EL	NONLEX	NONLEX	NONLEX	17	аппоз	_	_
+19	Pais	PAIS	NONLEX	NONLEX	NONLEX	18	аппоз	_	_
+20	​	​	​	​	PUNC	17	об-аппоз	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	бизнесмена	БИЗНЕСМЕН	S	S m anim gen sg	S m anim gen sg	20	1-компл	_	_
+23	обвиняют	ОБВИНЯТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	7	сент-соч	_	_
+24	в	В	PR	PR	PR	23	2-компл	_	_
+25	«	«	_	_	PUNC	26	PUNC	_	_
+26	тесных	ТЕСНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	27	опред	_	_
+27	связях	СВЯЗЬ	S	S f inan loc pl	S f inan loc pl	24	предл	_	_
+28	с	С	PR	PR	PR	27	атриб	_	_
+29	организованной	ОРГАНИЗОВАННЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	30	опред	_	_
+30	преступностью	ПРЕСТУПНОСТЬ	S	S f inan ins sg	S f inan ins sg	28	предл	_	_
+31	и	И	CONJ	CONJ	CONJ	23	сент-соч	_	_
+32	отмывании	ОТМЫВАНИЕ	S	S n inan loc sg	S n inan loc sg	31	соч-союзн	_	_
+33	€	€	€	€	PUNC	35	квазиагент	_	_
+34	10	10	NUM	NUM - - -	NUM - - -	35	количест	_	_
+35	млн	МЛН	NONLEX	NONLEX	NONLEX	32	1-компл	_	_
+36	предположительно	ПРЕДПОЛОЖИТЕЛЬНО	ADV	ADV -	ADV -	37	огранич	_	_
+37	криминального	КРИМИНАЛЬНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	38	опред	_	_
+38	происхождения	ПРОИСХОЖДЕНИЕ	S	S n inan gen sg	S n inan gen sg	32	атриб	_	_
+39	»	»	_	_	PUNC	38	PUNC	_	_
+40	.	.	SENT	SENT	SENT	38	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	7	вводн	_	_
+2	данным	ДАННЫЕ	S	S - inan dat pl	S - inan dat pl	1	предл	_	_
+3	испанских	ИСПАНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	4	опред	_	_
+4	СМИ	СМИ	S	S - inan gen pl	S - inan gen pl	2	квазиагент	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	Фирташ	ФИРТАШ	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+7	мог	МОЧЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+8	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+9	причастен	ПРИЧАСТНЫЙ	A	A - - sg brev m -	A - - sg brev m -	8	присвяз	_	_
+10	к	К	PR	PR	PR	9	1-компл	_	_
+11	схеме	СХЕМА	S	S f inan dat sg	S f inan dat sg	10	предл	_	_
+12	отмывания	ОТМЫВАНИЕ	S	S n inan acc pl	S n inan acc pl	7	сент-соч	_	_
+13	денег	ДЕНЬГИ	S	S - inan gen pl	S - inan gen pl	12	квазиагент	_	_
+14	через	ЧЕРЕЗ	PR	PR	PR	12	1-компл	_	_
+15	покупку	ПОКУПКА	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+16	недвижимости	НЕДВИЖИМОСТЬ	S	S f inan gen sg	S f inan gen sg	15	1-компл	_	_
+17	в	В	PR	PR	PR	15	атриб	_	_
+18	Испании	ИСПАНИЯ	S	S f inan loc sg	S f inan loc sg	17	предл	_	_
+19	(	(	_	_	PUNC	20	PUNC	_	_
+20	по	ПО	PR	PR	PR	25	обст	_	_
+21	этому	ЭТОТ	A	A - dat sg plen m -	A - dat sg plen m -	23	опред	_	_
+22	же	ЖЕ	PART	PART	PART	21	огранич	_	_
+23	делу	ДЕЛО	S	S n inan dat sg	S n inan dat sg	20	предл	_	_
+24	испанская	ИСПАНСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	25	опред	_	_
+25	полиция	ПОЛИЦИЯ	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+26	в	В	PR	PR	PR	25	атриб	_	_
+27	июле	ИЮЛЬ	S	S m inan loc sg	S m inan loc sg	26	предл	_	_
+28	2016	2016	NUM	NUM - - -	NUM - - -	29	опред	_	_
+29	года	ГОД	S	S m inan gen sg	S m inan gen sg	27	атриб	_	_
+30	арестовала	АРЕСТОВЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	вводн	_	_
+31	украинца	УКРАИНЕЦ	S	S m anim gen sg	S m anim gen sg	30	1-компл	_	_
+32	Степана	СТЕПАН	S	S m anim gen sg	S m anim gen sg	31	аппоз	_	_
+33	Черновецкого	ЧЕРНОВЕЦКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	35	опред	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	сына	СЫН	S	S m anim gen sg	S m anim gen sg	32	аппоз	_	_
+36	скандально	СКАНДАЛЬНО	ADV	ADV -	ADV -	37	огранич	_	_
+37	известного	ИЗВЕСТНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	38	опред	_	_
+38	экс	ЭКС	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+39	-	-	-	-	PUNC	38	PUNC	_	_
+40	мэра	МЭР	S	S m anim gen sg	S m anim gen sg	38	1-компл	_	_
+41	Киева	КИЕВ	S	S m inan gen sg	S m inan gen sg	40	1-компл	_	_
+42	Леонида	ЛЕОНИД	S	S m anim gen sg	S m anim gen sg	40	аппоз	_	_
+43	Черновецкого	ЧЕРНОВЕЦКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	38	сочин	_	_
+44	)	)	_	_	PUNC	43	PUNC	_	_
+45	.	.	SENT	SENT	SENT	43	PUNC	_	_
+
+1	Прокуратура	ПРОКУРАТУРА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+2	Вены	ВЕНА	S	S f inan gen sg	S f inan gen sg	1	квазиагент	_	_
+3	к	К	PR	PR	PR	1	1-компл	_	_
+4	вечеру	ВЕЧЕР	S	S m inan dat sg	S m inan dat sg	3	предл	_	_
+5	вторника	ВТОРНИК	S	S m inan gen sg	S m inan gen sg	4	квазиагент	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	смогла	СМОЧЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	прояснить	ПРОЯСНИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	как	КАК	CONJ	CONJ	CONJ	8	2-компл	_	_
+11	испанский	ИСПАНСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	12	опред	_	_
+12	ордер	ОРДЕР	S	S m inan acc sg	S m inan acc sg	10	сравн-союзн	_	_
+13	на	НА	PR	PR	PR	12	1-компл	_	_
+14	арест	АРЕСТ	S	S m inan acc sg	S m inan acc sg	13	предл	_	_
+15	Фирташа	ФИРТАША	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+16	повлияет	ПОВЛИЯТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	7	изъясн	_	_
+17	на	НА	PR	PR	PR	16	1-компл	_	_
+18	процедуру	ПРОЦЕДУРА	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+19	принятия	ПРИНЯТИЕ	S	S n inan gen sg	S n inan gen sg	18	квазиагент	_	_
+20	решения	РЕШЕНИЕ	S	S n inan gen sg	S n inan gen sg	19	1-компл	_	_
+21	по	ПО	PR	PR	PR	19	атриб	_	_
+22	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	23	квазиагент	_	_
+23	экстрадиции	ЭКСТРАДИЦИЯ	S	S f inan dat sg	S f inan dat sg	21	предл	_	_
+24	в	В	PR	PR	PR	16	2-компл	_	_
+25	Соединенные	СОЕДИНЯТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	26	опред	_	_
+26	Штаты	ШТАТ	S	S m inan acc pl	S m inan acc pl	24	предл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Адвокаты	АДВОКАТ	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+2	Фирташа	ФИРТАША	S	S m anim gen sg	S m anim gen sg	1	1-компл	_	_
+3	подтвердили	ПОДТВЕРЖДАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	обст	_	_
+5	заявлении	ЗАЯВЛЕНИЕ	S	S n inan loc sg	S n inan loc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	эксплет	_	_
+8	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	атриб	_	_
+9	подзащитный	ПОДЗАЩИТНЫЙ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+10	«	«	_	_	PUNC	9	PUNC	_	_
+11	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	подч-союзн	_	_
+12	задержан	ЗАДЕРЖИВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	11	пасс-анал	_	_
+13	сразу	СРАЗУ	ADV	ADV -	ADV -	12	обст	_	_
+14	после	ПОСЛЕ	PR	PR	PR	12	обст	_	_
+15	заседания	ЗАСЕДАНИЕ	S	S n inan gen sg	S n inan gen sg	14	предл	_	_
+16	суда	СУД	S	S m inan gen sg	S m inan gen sg	15	квазиагент	_	_
+17	по	ПО	PR	PR	PR	15	1-компл	_	_
+18	европейскому	ЕВРОПЕЙСКИЙ	A	A - dat sg plen m -	A - dat sg plen m -	19	опред	_	_
+19	ордеру	ОРДЕР	S	S m inan dat sg	S m inan dat sg	17	предл	_	_
+20	на	НА	PR	PR	PR	15	2-компл	_	_
+21	арест	АРЕСТ	S	S m inan acc sg	S m inan acc sg	20	предл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	выписанному	ВЫПИСЫВАТЬ	PARTCP	PARTCP pf praet dat sg plen m pass -	PARTCP pf praet dat sg plen m pass -	21	опред	_	_
+24	Испанией	ИСПАНИЯ	S	S f inan ins sg	S f inan ins sg	23	агент	_	_
+25	»	»	_	_	PUNC	24	PUNC	_	_
+26	,	,	,	,	PUNC	24	PUNC	_	_
+27	но	НО	CONJ	CONJ	CONJ	3	сочин	_	_
+28	отказались	ОТКАЗЫВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	27	соч-союзн	_	_
+29	комментировать	КОММЕНТИРОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	28	1-компл	_	_
+30	претензии	ПРЕТЕНЗИЯ	S	S f inan acc pl	S f inan acc pl	29	1-компл	_	_
+31	испанских	ИСПАНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	33	опред	_	_
+32	правоохранительных	ПРАВООХРАНИТЕЛЬНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	33	опред	_	_
+33	органов	ОРГАН	S	S m inan gen pl	S m inan gen pl	30	квазиагент	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	В	В	PR	PR	PR	0	ROOT	_	_
+2	чем	ЧЕМ	CONJ	CONJ	CONJ	1	предл	_	_
+3	Фирташа	ФИРТАША	S	S m anim gen sg	S m anim gen sg	4	предик	_	_
+4	обвиняют	ОБВИНЯТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	2	сравн-союзн	_	_
+5	в	В	PR	PR	PR	4	обст	_	_
+6	США	США	S	S - inan loc pl	S - inan loc pl	5	предл	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Обвинительный	ОБВИНИТЕЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	акт	АКТ	S	S m inan nom sg	S m inan nom sg	7	предик	_	_
+3	против	ПРОТИВ	PR	PR	PR	2	1-компл	_	_
+4	Фирташа	ФИРТАША	S	S m anim gen sg	S m anim gen sg	3	предл	_	_
+5	в	В	PR	PR	PR	4	атриб	_	_
+6	США	США	S	S - inan loc pl	S - inan loc pl	5	предл	_	_
+7	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+8	подготовлен	ПОДГОТОВИТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	7	пасс-анал	_	_
+9	еще	ЕЩЕ	ADV	ADV -	ADV -	10	огранич	_	_
+10	в	В	PR	PR	PR	8	обст	_	_
+11	2013	2013	NUM	NUM - - -	NUM - - -	12	опред	_	_
+12	году	ГОД	S	S m inan loc2 sg	S m inan loc2 sg	10	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	но	НО	CONJ	CONJ	CONJ	8	сочин	_	_
+15	обнародован	ОБНАРОДОВАТЬСЯ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	14	соч-союзн	_	_
+16	только	ТОЛЬКО	PART	PART	PART	17	огранич	_	_
+17	в	В	PR	PR	PR	15	обст	_	_
+18	апреле	АПРЕЛЬ	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+19	2014	2014	NUM	NUM - - -	NUM - - -	20	опред	_	_
+20	года	ГОД	S	S m inan gen sg	S m inan gen sg	18	атриб	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	через	ЧЕРЕЗ	PR	PR	PR	25	огранич	_	_
+23	две	ДВА	NUM	NUM nom f -	NUM nom f -	24	количест	_	_
+24	недели	НЕДЕЛЯ	S	S f inan gen sg	S f inan gen sg	22	предл	_	_
+25	после	ПОСЛЕ	PR	PR	PR	15	обст	_	_
+26	присоединения	ПРИСОЕДИНЕНИЕ	S	S n inan gen sg	S n inan gen sg	25	предл	_	_
+27	Крыма	КРЫМ	S	S m inan gen sg	S m inan gen sg	26	квазиагент	_	_
+28	к	К	PR	PR	PR	26	1-компл	_	_
+29	России	РОССИЯ	S	S f inan loc sg	S f inan loc sg	28	предл	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	5	вводн	_	_
+2	данным	ДАННЫЕ	S	S - inan dat pl	S - inan dat pl	1	предл	_	_
+3	следствия	СЛЕДСТВИЕ	S	S n inan gen sg	S n inan gen sg	2	квазиагент	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	начиная	НАЧИНАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	16	обст	_	_
+6	с	С	PR	PR	PR	5	2-компл	_	_
+7	2006	2006	NUM	NUM - - -	NUM - - -	8	опред	_	_
+8	года	ГОД	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+9	«	«	_	_	PUNC	10	PUNC	_	_
+10	преступная	ПРЕСТУПНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	11	опред	_	_
+11	группа	ГРУППА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	во главе	во главе	ADV	ADV -	-	14	огранич	_	_
+14	с	С	PR	PR	PR	11	атриб	_	_
+15	Фирташем	ФИРТАШ	S	S m anim gen sg	S m anim gen sg	14	предл	_	_
+16	заплатила	ЗАПЛАТИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	менее	МЕНЕЕ	ADV	ADV -	ADV -	16	1-компл	_	_
+19	$	$	$	$	PUNC	16	предик	_	_
+20	18,5	18,5	NUM	NUM - - -	NUM - - -	21	количест	_	_
+21	млн	МЛН	NONLEX	NONLEX	NONLEX	19	1-компл	_	_
+22	взяток	ВЗЯТКА	S	S f inan gen pl	S f inan gen pl	21	квазиагент	_	_
+23	для	ДЛЯ	PR	PR	PR	19	2-компл	_	_
+24	получения	ПОЛУЧЕНИЕ	S	S n inan gen sg	S n inan gen sg	23	предл	_	_
+25	лицензий	ЛИЦЕНЗИЯ	S	S f inan gen pl	S f inan gen pl	24	1-компл	_	_
+26	на	НА	PR	PR	PR	25	1-компл	_	_
+27	добычу	ДОБЫЧА	S	S f inan acc sg	S f inan acc sg	26	предл	_	_
+28	титанового	ТИТАНОВЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	29	опред	_	_
+29	сырья	СЫРЬЕ	S	S n inan gen sg	S n inan gen sg	27	1-компл	_	_
+30	в	В	PR	PR	PR	24	атриб	_	_
+31	индийском	ИНДИЙСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	32	опред	_	_
+32	штате	ШТАТ	S	S m inan loc sg	S m inan loc sg	30	предл	_	_
+33	Андхра-Прадеш	АНДХРА-ПРАДЕШ	S	S m anim nom sg	S m anim nom sg	16	вводн	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	Титан	ТИТАН	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	планировали	ПЛАНИРОВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	поставлять	ПОСТАВЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	1-компл	_	_
+4	американской	АМЕРИКАНСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+5	самолетостроительной	САМОЛЕТОСТРОИТЕЛЬНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+6	корпорации	КОРПОРАЦИЯ	S	S f inan gen sg	S f inan gen sg	3	1-компл	_	_
+7	Boeing	BOEING	NONLEX	NONLEX	NONLEX	6	аппоз	_	_
+8	(	(	_	_	PUNC	9	PUNC	_	_
+9	сделка	СДЕЛКА	S	S f inan nom sg	S f inan nom sg	7	примыкат	_	_
+10	в	В	PR	PR	PR	13	обст	_	_
+11	итоге	ИТОГ	S	S m inan loc sg	S m inan loc sg	10	предл	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	состоялась	СОСТОЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	примыкат	_	_
+14	)	)	_	_	PUNC	13	PUNC	_	_
+15	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Хотя	ХОТЯ	CONJ	CONJ	CONJ	11	обст	_	_
+2	речь	РЕЧЬ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	идет	ИДТИ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	подч-союзн	_	_
+4	об	ОБ	PR	PR	PR	3	1-несобст-компл	_	_
+5	индийском	ИНДИЙСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	6	опред	_	_
+6	проекте	ПРОЕКТ	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+7	украинского	УКРАИНСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	8	опред	_	_
+8	гражданина	ГРАЖДАНИН	S	S m anim gen sg	S m anim gen sg	6	квазиагент	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	США	США	S	S - inan gen pl	S - inan gen pl	8	1-компл	_	_
+11	использовали	ИСПОЛЬЗОВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+12	Закон	ЗАКОН	S	S m inan acc sg	S m inan acc sg	11	1-компл	_	_
+13	о	О	PR	PR	PR	12	1-компл	_	_
+14	противодействии	ПРОТИВОДЕЙСТВИЕ	S	S n inan loc sg	S n inan loc sg	13	предл	_	_
+15	коррупционным	КОРРУПЦИОННЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	16	опред	_	_
+16	практикам	ПРАКТИК	S	S m anim dat pl	S m anim dat pl	14	1-компл	_	_
+17	за рубежом	за рубежом	ADV	ADV -	-	23	обст	_	_
+18	(	(	_	_	PUNC	19	PUNC	_	_
+19	FCPA	FCPA	NONLEX	NONLEX	NONLEX	17	примыкат	_	_
+20	)	)	_	_	PUNC	19	PUNC	_	_
+21	,	,	,	,	PUNC	19	PUNC	_	_
+22	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	23	предик	_	_
+23	имеет	ИМЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	сент-соч	_	_
+24	экстерриториальное	ЭКСТЕРРИТОРИАЛЬНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	23	1-компл	_	_
+25	действие	ДЕЙСТВИЕ	S	S n inan acc sg	S n inan acc sg	24	1-компл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Для	ДЛЯ	PR	PR	PR	6	обст	_	_
+2	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	квазиагент	_	_
+3	применения	ПРИМЕНЕНИЕ	S	S n inan gen sg	S n inan gen sg	1	предл	_	_
+4	американским	АМЕРИКАНСКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	5	опред	_	_
+5	властям	ВЛАСТЬ	S	S f inan dat pl	S f inan dat pl	3	1-компл	_	_
+6	достаточно	ДОСТАТОЧНО	ADV	ADV -	ADV -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	6	предик	_	_
+9	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	8	подч-союзн	_	_
+10	хоть	ХОТЬ	PART	PART	PART	11	огранич	_	_
+11	какая-то	КАКОЙ-ТО	A	A - nom sg plen f -	A - nom sg plen f -	12	опред	_	_
+12	связь	СВЯЗЬ	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+13	с	С	PR	PR	PR	12	1-компл	_	_
+14	юрисдикцией	ЮРИСДИКЦИЯ	S	S f inan ins sg	S f inan ins sg	13	предл	_	_
+15	Соединенных	СОЕДИНЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	16	опред	_	_
+16	Штатов	ШТАТ	S	S m inan gen pl	S m inan gen pl	14	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
