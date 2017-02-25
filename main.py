@@ -1,6 +1,6 @@
 from subprocess import call
 
-script_path = "/Users/ulyanasidorova/Development/RusNER/ru-syntax/ru-syntax.py"
+script_path = "/Users/ulyanasidorova/Development/ru-syntax/ru-syntax.py"
 in_path = "/Users/ulyanasidorova/Development/RusNER/test.txt"
 out_path = "/Users/ulyanasidorova/Development/RusNER/result.txt"
 syntax_call_line = "python3"
@@ -15,4 +15,3 @@ with open(out_path, 'r', encoding="utf-8") as f:
         arr.append(line[-4])
         print(line)
         # print("\t".join([line[0], line[1], line[-4], line[-3]]))
-
