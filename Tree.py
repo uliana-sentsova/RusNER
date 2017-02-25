@@ -1,4 +1,8 @@
 class Tree:
+    """
+    This is a Tree class which is aimed to represent results of syntactic analysis.
+    Tree elements are objects of Token class.
+    """
 
     def __init__(self, n=1):
         self.n = n
@@ -23,6 +27,7 @@ class Tree:
             if token.parent == -1:
                 return token
 
+    # Breadth-first search
     def get_all_children(self, val):
         all_children = []
         stack = self.get_children(val)

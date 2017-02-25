@@ -1,4 +1,7 @@
 class Token:
+    """
+    Token class to represent tokens. Read from CONLL output of syntatic analyzer.
+    """
 
     def __init__(self):
         self.surface = ""
