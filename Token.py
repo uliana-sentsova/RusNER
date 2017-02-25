@@ -8,6 +8,7 @@ class Token:
         self.annotation = []
         self.parent = 0
         self.syntax = ""
+        self.number = 0
 
     def read(self, conll_line):
         conll_line = conll_line.strip().split("\t")
@@ -17,3 +18,16 @@ class Token:
         self.grammar = conll_line[4]
         self.syntax = conll_line[-3]
         self.parent = int(conll_line[-4])
+        self.number = int(conll_line[0])
+
+
+class RootToken():
+    def __init__(self):
+        self.surface = ""
+        self.lemma = ""
+        self.pos = ""
+        self.grammar = ""
+        self.annotation = []
+        self.parent = 0
+        self.syntax = ""
+        self.number = 0
