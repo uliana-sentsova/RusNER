@@ -1,0 +1,71 @@
+горелый,вулкан,гора,камчатка,россия,Горелый	http://dbpedia.org/resource/Gorely
+чикурачок,гора,парамушир,россия,Чикурачки	http://dbpedia.org/resource/Chikurachki
+львиный пасть,гора,итуруп,курильский остров,япония,россия,Львиная Пасть	http://dbpedia.org/resource/Lvinaya_Past
+ксудача,гора,камчатка,россия,Ксудач	http://dbpedia.org/resource/Ksudach
+острый,гора, камчатский край, у ледник начикинский,камчатка,россия,Острая	http://dbpedia.org/resource/Ostry
+высокий,вулкан, 1234 м,гора,камчатка,россия,Высокий	http://dbpedia.org/resource/Vysoky_(lower_stratovolcano)
+ахтанг,гора,камчатка,россия,Ахтанг	http://dbpedia.org/resource/Akhtang
+хангар,вулкан,гора,камчатка,россия,Хангар	http://dbpedia.org/resource/Khangar
+вулкан келля,гора,камчатка,россия,Вулкан Келля	http://dbpedia.org/resource/Kell_(volcano)
+шивелуч,гора,камчатка,россия,Шивелуч	http://dbpedia.org/resource/Shiveluch
+малый семячик,гора,камчатка,россия,Малый Семячик	http://dbpedia.org/resource/Maly_Semyachik
+немо,вулкан,гора,онекотан,курильский остров,россия,Немо	http://dbpedia.org/resource/Nemo_Peak
+черный,вулкан,гора,камчатка,россия,Чёрный	http://dbpedia.org/resource/Chorny_Volcano
+ходутка,гора,камчатка,россия,Ходутка	http://dbpedia.org/resource/Khodutka
+дзензура,гора,камчатка,россия,Дзензур	http://dbpedia.org/resource/Dzenzursky
+авачинский сопка,гора,камчатка,россия,Авачинская Сопка	http://dbpedia.org/resource/Avachinsky
+чирип,вулкан,гора,итуруп,курильский остров,россия,Чирип	http://dbpedia.org/resource/Chirip
+ално-чашаконджа,гора,камчатка,россия,Алней-Чашаконджа	http://dbpedia.org/resource/Alney-Chashakondzha
+атсонупури,гора,итуруп,курильский остров,россия,Атсонупури	http://dbpedia.org/resource/Atsonupuri
+ичинский сопка,гора,камчатка,россия,Ичинская Сопка	http://dbpedia.org/resource/Ichinsky
+большой удин,гора,камчатка,россия,Большая Удина	http://dbpedia.org/resource/Udina
+зимина,вулкан,гора,камчатка,россия,Зимина	http://dbpedia.org/resource/Zimin_volcano
+комаров,вулкан,гора,камчатка,россия,Комаров	http://dbpedia.org/resource/Komarov_(volcano)
+жупановский сопка,гора,камчатка,россия,Жупановская Сопка	http://dbpedia.org/resource/Zhupanovsky
+камень,вулкан,гора,камчатка,россия,Камень	http://dbpedia.org/resource/Kamen_(volcano)
+ильинский сопка,гора,камчатка,россия,Ильинская Сопка	http://dbpedia.org/resource/Ilyinsky_(volcano)
+вулкан сарычев,гора,россия,Вулкан Сарычева	http://dbpedia.org/resource/Sarychev_Peak
+три сестра,вулкан, россия,гора,уруп (остров),курильский остров,россия,Три Сестры	http://dbpedia.org/resource/Tri_Sestry
+вулкан кошелев,гора,камчатка,россия,Вулкан Кошелева	http://dbpedia.org/resource/Koshelev_(volcano)
+горный институт,вулкан,гора,камчатка,россия,Горный Институт	http://dbpedia.org/resource/Gorny_Institute
+высокий,вулкан, 2161 м,гора,камчатка,россия,Высокий	http://dbpedia.org/resource/Vysoky_(higher_stratovolcano)
+большой семячик,гора,камчатка,россия,Большой Семячик	http://dbpedia.org/resource/Bolshoy_Semyachik
+вулкан смирнов,гора,курильский остров,россия,Вулкан Смирнова	http://dbpedia.org/resource/Smirnov_(volcano)
+вулкан баранский,гора,итуруп,курильский остров,россия,Вулкан Баранского	http://dbpedia.org/resource/Baransky
+толбачик,гора,камчатка,россия,Толбачик	http://dbpedia.org/resource/Tolbachik
+прево,вулкан,гора,симушир,россия,Прево	http://dbpedia.org/resource/Prevo_Peak
+вулкан машковцев,гора,камчатка,россия,Вулкан Машковцева	http://dbpedia.org/resource/Mashkovtsev_(volcano)
+опадать,вулкан,гора,камчатка,россия,Опала	http://dbpedia.org/resource/Opala_volcano
+кунтоминтар,гора,шиашкотан,россия,Кунтоминтар	http://dbpedia.org/resource/Kuntomintar
+богатырь,хребет,гора,итуруп,россия,Богатырь	http://dbpedia.org/resource/Bogatyr_Ridge
+гора рудаков,гора,уруп (остров),россия,Гора Рудакова	http://dbpedia.org/resource/Rudakov
+вилючинский сопка,гора,камчатка,россия,Вилючинская Сопка	http://dbpedia.org/resource/Vilyuchik
+вулкан крашенинникова,гора,камчатка,россия,Вулкан Крашенинникова	http://dbpedia.org/resource/Krasheninnikov_(volcano)
+алнгя,гора,камчатка,россия,Алнгей	http://dbpedia.org/resource/Alngey
+голый,вулкан,гора,камчатка,россия,Голая	http://dbpedia.org/resource/Golaya
+берутаруб,гора,итуруп,курильский остров,россия,Берутарубе	http://dbpedia.org/resource/Berutarube
+академия наука,вулкан,гора,камчатка,камчатский край,россия,Академия Наук	http://dbpedia.org/resource/Akademia_Nauk_(volcano)
+междусопочный,гора,россия,камчатка,Междусопочный	http://dbpedia.org/resource/Mezhdusopochny
+тао-русырой,гора,онекотан,курильский остров,россия,Тао-Русыр	http://dbpedia.org/resource/Tao-Rusyr_Caldera
+карымский сопка,гора,камчатка,россия,Карымская Сопка	http://dbpedia.org/resource/Karymsky_(volcano)
+синарка,гора,шиашкотан,россия,Синарка	http://dbpedia.org/resource/Sinarka
+вулкан фусс,гора,парамушир,россия,Вулкан Фусса	http://dbpedia.org/resource/Fuss_Peak
+камбальный сопка,гора,камчатка,россия,Камбальная Сопка	http://dbpedia.org/resource/Kambalny
+тауншиц,гора,камчатка,россия,Тауншиц	http://dbpedia.org/resource/Taunshits
+бакенинг,гора,камчатка,россия,Бакенинг	http://dbpedia.org/resource/Bakening
+романовка,вулкан,гора,камчатка,россия,Романовка	http://dbpedia.org/resource/Romanovka_stratovolcano
+горящий сопка,гора,симушир,курильский остров,россия,Горящая Сопка	http://dbpedia.org/resource/Goryashchaya_Sopka
+кроноцкая сопка,гора,россия,камчатка,Кроноцкая Сопка	http://dbpedia.org/resource/Kronotsky
+вулкан менделеев,гора,россия,Вулкан Менделеева	http://dbpedia.org/resource/Mendeleyeva
+кизимен,гора,камчатка,россия,Кизимен	http://dbpedia.org/resource/Kizimen
+близнец,вулкан,гора,камчатка,россия,Близнец	http://dbpedia.org/resource/Bliznets
+ключевский сопка,гора,камчатка,россия,Ключевская Сопка	http://dbpedia.org/resource/Klyuchevskaya_Sopka
+беленький,вулкан,гора,камчатка,россия,Беленькая	http://dbpedia.org/resource/Belenkaya
+демон,вулкан,гора,итуруп,курильский остров,россия,Демон	http://dbpedia.org/resource/Demon_(volcano)
+корякский сопка,гора,камчатка,россия,Корякская Сопка	http://dbpedia.org/resource/Koryaksky
+тятя,гора,россия,Тятя	http://dbpedia.org/resource/Tyatya
+безымянный,вулкан,гора,камчатка,россия,Безымянный	http://dbpedia.org/resource/Bezymianny
+анаун,гора,камчатка,россия,Анаун	http://dbpedia.org/resource/Anaun
+хувхойтун,гора,камчатка,россия,Хувхойтун	http://dbpedia.org/resource/Khuvkhoitun
+желтовская сопка,гора,камчатка,россия,Желтовская Сопка	http://dbpedia.org/resource/Zheltovsky
+остров атласова,гора,россия,курильский остров,тихий океан,дальний восток россия,море,Остров Атласова	http://dbpedia.org/resource/Atlasov_Island

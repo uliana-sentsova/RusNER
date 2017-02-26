@@ -1,0 +1,68 @@
+большой шантар,остров,дальний восток россия,море,хабаровский край,Большой Шантар	http://dbpedia.org/resource/Bolshoy_Shantar_Island
+южный,остров, новый земля,новый земля,архангельский область,баренцев море,карский море,Южный	http://dbpedia.org/resource/Yuzhny_Island
+остров райнер,остров,россия,земля франц-иосиф,Остров Райнера	http://dbpedia.org/resource/Rainer_Island
+алджер,остров,россия,земля франц-иосиф,Алджер	http://dbpedia.org/resource/Alger_Island,_Russia
+остров артур,остров,земля франц-иосиф,Остров Артура	http://dbpedia.org/resource/Arthur_Island
+остров шмидт,остров,северный земля,карский море,Остров Шмидта	http://dbpedia.org/resource/Schmidt_Island
+земля александра,остров,россия,архангельский область,земля франц-иосиф,Земля Александры	http://dbpedia.org/resource/Alexandra_Land
+уш,остров,сахалинский область,дальний восток россия,море,Уш	http://dbpedia.org/resource/Ush_Island
+остров зич,остров,архангельский область,северный ледовитый океан,земля франц-иосиф,Острова Зичи	http://dbpedia.org/resource/Zichy_Land
+остров кверини,остров,россия,земля франц-иосиф,Остров Кверини	http://dbpedia.org/resource/Querini_Island
+алеутский остров,остров,аляска,россия,тихий океан,соединять штат америка,тундра,берингов море,дальний восток россия,Алеутские острова	http://dbpedia.org/resource/Aleutian_Islands
+остров аделаида,остров,земля франц-иосиф,Остров Аделаиды	http://dbpedia.org/resource/Adelaide_Island_(Russia)
+архипелаг норденшельд,остров,карский море,россия,красноярский край,северный ледовитый океан,Архипелаг Норденшёльда	http://dbpedia.org/resource/Nordenskiöld_Archipelago
+большевик,остров,северный земля,карский море,море лаптев,Большевик	http://dbpedia.org/resource/Bolshevik_Island
+крым,остров,крым,украина,европа,россия,Крым	http://dbpedia.org/resource/Crimea
+остров джексон,остров,россия,земля франц-иосиф,Остров Джексона	http://dbpedia.org/resource/Jackson_Island
+остров ратманова,остров,чукотский автономный округ,берингов море,чукотский море,Остров Ратманова	http://dbpedia.org/resource/Big_Diomede
+большой бегичев,остров,красноярский край,якутия,море лаптев,Большой Бегичев	http://dbpedia.org/resource/Bolshoy_Begichev_Island
+каркарпкий,остров,чукотский автономный округ,чукотский море,Каркарпко	http://dbpedia.org/resource/Karkarpko_Island
+соловецкий,остров,архангельский область,северный ледовитый океан,белый море,Соловецкий	http://dbpedia.org/resource/Bolshoy_Solovetsky_Island
+большой ляховский,остров,якутия,арктика,Большой Ляховский	http://dbpedia.org/resource/Bolshoy_Lyakhovsky_Island
+вайгач,остров,баренцев море,ненецкий автономный округ,карский море,Вайгач	http://dbpedia.org/resource/Vaygach_Island
+Ла-ронсьер,остров,россия,земля франц-иосиф,Ла-Ронсьер	http://dbpedia.org/resource/La_Ronciere_Island
+ева-лив,остров,земля франц-иосиф,Ева-Лив	http://dbpedia.org/resource/Yeva-Liv_Island
+остров октябрьский революция,остров,северный земля,карский море,Остров Октябрьской Революции	http://dbpedia.org/resource/October_Revolution_Island
+чамп,остров,россия,земля франц-иосиф,Чамп	http://dbpedia.org/resource/Champ_Island
+остров арктический институт,остров,красноярский край,карский море,Острова Арктического института	http://dbpedia.org/resource/Arkticheskiy_Institut_Islands
+остров циглер,остров,россия,земля франц-иосиф,Остров Циглера	http://dbpedia.org/resource/Ziegler_Island
+остров галль,остров,архангельский область,земля франц-иосиф,Остров Галля	http://dbpedia.org/resource/Hall_Island_(Arctic)
+таймыр,остров,красноярский край,карский море,Таймыр	http://dbpedia.org/resource/Taymyr_Island
+койлуото,остров,финляндия,россия,Койлуото	http://dbpedia.org/resource/Koiluoto
+котельный,остров,якутия,Котельный	http://dbpedia.org/resource/Kotelny_Island
+новый сибирь,остров,якутия,Новая Сибирь	http://dbpedia.org/resource/New_Siberia
+экарма,остров,россия,курильский остров,тихий океан,дальний восток россия,море,Экарма	http://dbpedia.org/resource/Ekarma
+остров врангель,остров,россия,чукотский автономный округ,чукотский море,восточно-сибирский море,Остров Врангеля	http://dbpedia.org/resource/Wrangel_Island
+сахалин,остров,сахалинский область,тихий океан,дальний восток россия,море,Сахалин	http://dbpedia.org/resource/Sakhalin
+греэм-белл,остров,архангельский область,земля франц-иосиф,Греэм-Белл	http://dbpedia.org/resource/Graham_Bell_Island
+северный,остров, новый земля,новый земля,архангельский область,баренцев море,карский море,Северный	http://dbpedia.org/resource/Severny_Island
+остров карл-александр,остров,россия,земля франц-иосиф,Остров Карла-Александра	http://dbpedia.org/resource/Karl-Alexander_Island
+айон,остров,чукотский автономный округ,восточно-сибирский море,Айон	http://dbpedia.org/resource/Ayon_Island
+васильевский остров,остров,санкт-петербург,Васильевский остров	http://dbpedia.org/resource/Vasilyevsky_Island
+колгуев,остров,архангельский область,баренцев море,ненецкий автономный округ,Колгуев	http://dbpedia.org/resource/Kolguyev_Island
+остров нансен,архипелаг,норденшельд,остров,красноярский край,карский море,Остров Нансена	http://dbpedia.org/resource/Nansen_Island_(Kara_Sea)
+малый таймыр,остров,северный земля,море лаптев,Малый Таймыр	http://dbpedia.org/resource/Maly_Taymyr_Island
+кижи,остров,россия,европа,республика,Кижи	http://dbpedia.org/resource/Kizhi_Island
+остров беккер,остров,россия,земля франц-иосиф,Остров Беккера	http://dbpedia.org/resource/Becker_Island
+остров хейс,остров,земля франц-иосиф,Остров Хейса	http://dbpedia.org/resource/Heiss_Island
+остров гейберг,остров,красноярский край,карский море,Острова Гейберга	http://dbpedia.org/resource/Heiberg_Islands
+земля франц-иосиф,остров,карский море,баренцев море,архангельский область,северный ледовитый океан,Земля Франца-Иосифа	http://dbpedia.org/resource/Franz_Josef_Land
+пионер,остров,северный земля,карский море,Пионер	http://dbpedia.org/resource/Pioneer_Island_(Russia)
+валаамский архипелаг,остров,россия,европа,республика,Валаамский архипелаг	http://dbpedia.org/resource/Valaam
+диксон,остров,красноярский край,карский море,Диксон	http://dbpedia.org/resource/Dikson_Island
+большой муксалом,остров,гулаг,северный ледовитый океан,Большая Муксалма	http://dbpedia.org/resource/Bolshaya_Muksalma
+остров гриль,остров,россия,земля франц-иосиф,Остров Грили	http://dbpedia.org/resource/Greely_Island
+белый земля,остров,земля франц-иосиф,Белая Земля	http://dbpedia.org/resource/Belaya_Zemlya
+геральд,остров,россия,чукотский автономный округ,чукотский море,Геральд	http://dbpedia.org/resource/Herald_Island_(Arctic)
+колючина,остров,чукотский автономный округ,чукотский море,Колючин	http://dbpedia.org/resource/Kolyuchin_Island
+комсомолец,остров,северный земля,комсомол,карский море,море лаптев,Комсомолец	http://dbpedia.org/resource/Komsomolets_Island
+идлидля,остров,чукотский автономный округ,чукотский море,Идлидля	http://dbpedia.org/resource/Idlidlya_Island
+остров нансен,земля франц-иосиф,остров,россия,Остров Нансена	http://dbpedia.org/resource/Nansena_Island_(Franz_Josef_Land)
+остров фуругельм,остров,россия,дальний восток россия,приморский край,море,Остров Фуругельма	http://dbpedia.org/resource/Furugelm_Island
+остров диомид,остров,чукотский автономный округ,аляска,берингов море,чукотский море,ном (зона перепись население),Острова Диомида	http://dbpedia.org/resource/Diomede_Islands
+земля вильчек,остров,архангельский область,земля франц-иосиф,Земля Вильчека	http://dbpedia.org/resource/Wilczek_Land
+белый,остров, карский море,тюменский область,карский море,Белый	http://dbpedia.org/resource/Bely_Island
+северный земля,остров,карский море,море лаптев,сибирь,россия,красноярский край,Северная Земля	http://dbpedia.org/resource/Severnaya_Zemlya
+остров серый гусь,остров,чукотский автономный округ,чукотский море,Острова Серых Гусей	http://dbpedia.org/resource/Serykh_Gusey_Islands
+остров мак-клинток,остров,россия,земля франц-иосиф,Остров Мак-Клинтока	http://dbpedia.org/resource/MacKlintok_Island
+коса два пилот,остров,россия,чукотский автономный округ,чукотский море,Коса Двух Пилотов	http://dbpedia.org/resource/Kosa_Dvukh_Pilotov_Island

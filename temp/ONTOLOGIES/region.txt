@@ -1,0 +1,83 @@
+алтайский край,Алтайский край	http://dbpedia.org/resource/Altai_Krai
+республика алтай,Республика Алтай	http://dbpedia.org/resource/Altai_Republic
+амурский область,Амурская область	http://dbpedia.org/resource/Amur_Oblast
+челябинский область,Челябинская область	http://dbpedia.org/resource/Chelyabinsk_Oblast
+чукотский автономный округ,Чукотский автономный округ	http://dbpedia.org/resource/Chukotka_Autonomous_Okrug
+иркутский область,Иркутская область	http://dbpedia.org/resource/Irkutsk_Oblast
+еврейский автономный область,Еврейская автономная область	http://dbpedia.org/resource/Jewish_Autonomous_Oblast
+камчатский край,Камчатский край	http://dbpedia.org/resource/Kamchatka_Krai
+кемеровский область,Кемеровская область	http://dbpedia.org/resource/Kemerovo_Oblast
+хабаровский край,Хабаровский край	http://dbpedia.org/resource/Khabarovsk_Krai
+хакасия,Хакасия	http://dbpedia.org/resource/Khakassia
+красноярский край,Красноярский край	http://dbpedia.org/resource/Krasnoyarsk_Krai
+курганский область,Курганская область	http://dbpedia.org/resource/Kurgan_Oblast
+магаданский область,Магаданская область	http://dbpedia.org/resource/Magadan_Oblast
+новосибирский область,Новосибирская область	http://dbpedia.org/resource/Novosibirsk_Oblast
+омский область,Омская область	http://dbpedia.org/resource/Omsk_Oblast
+приморский край,Приморский край	http://dbpedia.org/resource/Primorsky_Krai
+якутия,Якутия	http://dbpedia.org/resource/Sakha_Republic
+сахалинский область,Сахалинская область	http://dbpedia.org/resource/Sakhalin_Oblast
+свердловский область,Свердловская область	http://dbpedia.org/resource/Sverdlovsk_Oblast
+томский область,Томская область	http://dbpedia.org/resource/Tomsk_Oblast
+тюменский область,Тюменская область	http://dbpedia.org/resource/Tyumen_Oblast
+владимирский область,Владимирская область	http://dbpedia.org/resource/Vladimir_Oblast
+ямало-ненецкий автономный округ,Ямало-Ненецкий автономный округ	http://dbpedia.org/resource/Yamalo-Nenets_Autonomous_Okrug
+адыгея,Адыгея	http://dbpedia.org/resource/Adygea
+башкортостан,Башкортостан	http://dbpedia.org/resource/Bashkortostan
+бурятия,Бурятия	http://dbpedia.org/resource/Buryatia
+чечня,Чечня	http://dbpedia.org/resource/Chechnya
+дагестан,Дагестан	http://dbpedia.org/resource/Dagestan
+ингушетия,Ингушетия	http://dbpedia.org/resource/Ingushetia
+калмыкия,Калмыкия	http://dbpedia.org/resource/Kalmykia
+марья эл,Марий Эл	http://dbpedia.org/resource/Mari_El
+мордовия,Мордовия	http://dbpedia.org/resource/Mordovia
+москва,Москва	http://dbpedia.org/resource/Moscow
+республика карелия,Республика Карелия	http://dbpedia.org/resource/Republic_of_Karelia
+татарстан,Татарстан	http://dbpedia.org/resource/Tatarstan
+тыва,Тыва	http://dbpedia.org/resource/Tuva
+ханты-мансийский автономный округ — югра,Ханты-Мансийский автономный округ — Югра	http://dbpedia.org/resource/Khanty-Mansi_Autonomous_Okrug
+удмуртия,Удмуртия	http://dbpedia.org/resource/Udmurtia
+архангельский область,Архангельская область	http://dbpedia.org/resource/Arkhangelsk_Oblast
+астраханский область,Астраханская область	http://dbpedia.org/resource/Astrakhan_Oblast
+белгородский область,Белгородская область	http://dbpedia.org/resource/Belgorod_Oblast
+брянский область,Брянская область	http://dbpedia.org/resource/Bryansk_Oblast
+чувашия,Чувашия	http://dbpedia.org/resource/Chuvashia
+ивановский область,Ивановская область	http://dbpedia.org/resource/Ivanovo_Oblast
+кабардино-балкария,Кабардино-Балкария	http://dbpedia.org/resource/Kabardino-Balkaria
+калининградский область,Калининградская область	http://dbpedia.org/resource/Kaliningrad_Oblast
+калужский область,Калужская область	http://dbpedia.org/resource/Kaluga_Oblast
+карачаево-черкесия,Карачаево-Черкесия	http://dbpedia.org/resource/Karachay-Cherkessia
+кировский область,Кировская область	http://dbpedia.org/resource/Kirov_Oblast
+республика коми,Республика Коми	http://dbpedia.org/resource/Komi_Republic
+костромской область,Костромская область	http://dbpedia.org/resource/Kostroma_Oblast
+краснодарский край,Краснодарский край	http://dbpedia.org/resource/Krasnodar_Krai
+курская область,Курская область	http://dbpedia.org/resource/Kursk_Oblast
+ленинградский область,Ленинградская область	http://dbpedia.org/resource/Leningrad_Oblast
+липецкий область,Липецкая область	http://dbpedia.org/resource/Lipetsk_Oblast
+московский область,Московская область	http://dbpedia.org/resource/Moscow_Oblast
+мурманский область,Мурманская область	http://dbpedia.org/resource/Murmansk_Oblast
+ненецкий автономный округ,Ненецкий автономный округ	http://dbpedia.org/resource/Nenets_Autonomous_Okrug
+нижегородский область,Нижегородская область	http://dbpedia.org/resource/Nizhny_Novgorod_Oblast
+новгородский область,Новгородская область	http://dbpedia.org/resource/Novgorod_Oblast
+оренбургский область,Оренбургская область	http://dbpedia.org/resource/Orenburg_Oblast
+орловский область,Орловская область	http://dbpedia.org/resource/Oryol_Oblast
+пензенский область,Пензенская область	http://dbpedia.org/resource/Penza_Oblast
+пермский край,Пермский край	http://dbpedia.org/resource/Perm_Krai
+псковский область,Псковская область	http://dbpedia.org/resource/Pskov_Oblast
+ростовский область,Ростовская область	http://dbpedia.org/resource/Rostov_Oblast
+рязанский область,Рязанская область	http://dbpedia.org/resource/Ryazan_Oblast
+санкт-петербург,Санкт-Петербург	http://dbpedia.org/resource/Saint_Petersburg
+самарский область,Самарская область	http://dbpedia.org/resource/Samara_Oblast
+саратовский область,Саратовская область	http://dbpedia.org/resource/Saratov_Oblast
+смоленский область,Смоленская область	http://dbpedia.org/resource/Smolensk_Oblast
+ставропольский край,Ставропольский край	http://dbpedia.org/resource/Stavropol_Krai
+тамбовский область,Тамбовская область	http://dbpedia.org/resource/Tambov_Oblast
+тульский область,Тульская область	http://dbpedia.org/resource/Tula_Oblast
+тверская область,Тверская область	http://dbpedia.org/resource/Tver_Oblast
+ульяновский область,Ульяновская область	http://dbpedia.org/resource/Ulyanovsk_Oblast
+волгоградский область,Волгоградская область	http://dbpedia.org/resource/Volgograd_Oblast
+вологодский область,Вологодская область	http://dbpedia.org/resource/Vologda_Oblast
+воронежский область,Воронежская область	http://dbpedia.org/resource/Voronezh_Oblast
+ярославский область,Ярославская область	http://dbpedia.org/resource/Yaroslavl_Oblast
+северный осетия,Северная Осетия	http://dbpedia.org/resource/North_Ossetia-Alania
+забайкальский край,Забайкальский край	http://dbpedia.org/resource/Zabaykalsky_Krai

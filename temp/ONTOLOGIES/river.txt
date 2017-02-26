@@ -1,0 +1,412 @@
+мензель,река,татарстан,Мензеля	http://dbpedia.org/resource/Menzelya_River
+большой лямп,река,пермский край,Большая Лямпа	http://dbpedia.org/resource/Bolshaya_Lyampa
+кемь,река,  белый море,республика,Кемь	http://dbpedia.org/resource/Kem_River
+казанок,приток,волга,река,татарстан,Казанка	http://dbpedia.org/resource/Kazanka_River
+кура,отвод,малка,река,ставропольский край,Кура	http://dbpedia.org/resource/Kura_River_(Russia)
+северный кельтма,река,республика коми,Северная Кельтма	http://dbpedia.org/resource/North_Keltma_River
+прохладный,река,калининградский область,Прохладная	http://dbpedia.org/resource/Prokhladnaya_(river)
+малый черемшан,река,татарстан,ульяновский область,Малый Черемшан	http://dbpedia.org/resource/Maly_Cheremshan_River
+дон,река,липецкий область,ростовский область,тульский область,волгоградский область,воронежский область,Дон	http://dbpedia.org/resource/Don_River_(Russia)
+мелеча,река,волга,тверская область,Мелеча	http://dbpedia.org/resource/Melecha_River
+була,река,татарстан,чувашия,Була	http://dbpedia.org/resource/Bula_River
+большой кумин,река,пермский край,Большая Кумина	http://dbpedia.org/resource/Bolshaya_Kumina_River
+илеть,река,татарстан,марья эл,Илеть	http://dbpedia.org/resource/Ilet_River
+ухтым,река,пермский край,Ухтым	http://dbpedia.org/resource/Ukhtym_River
+ы,река,архангельский область,республика коми,Ы	http://dbpedia.org/resource/Y_River
+лызовок,река,пермский край,Лызовка	http://dbpedia.org/resource/Lyzovka_River
+локня,приток,ловать,река,псковский область,нева,Локня	http://dbpedia.org/resource/Loknya_River
+устье,река,северный двина,архангельский область,вологодский область,Устья	http://dbpedia.org/resource/Ustya_River
+тунтсайок,река,финляндия,мурманский область,Тунтсайоки	http://dbpedia.org/resource/Tuntsayoki
+хор,река,хабаровский край,Хор	http://dbpedia.org/resource/Khor_River
+хава,река,воронежский область,Хава	http://dbpedia.org/resource/Khava_River
+мамоновка,река,  балтийский море,польша,калининградский область,Мамоновка	http://dbpedia.org/resource/Mamonovka
+тимшор,река,пермский край,Тимшор	http://dbpedia.org/resource/Timsher_River
+юг,река,кировский область,северный двина,вологодский область,Юг	http://dbpedia.org/resource/Yug_River
+аниш,приток,волга,река,чувашия,Аниш	http://dbpedia.org/resource/Anish_River
+колпь,приток,суд,река,волга,ленинградский область,вологодский область,Колпь	http://dbpedia.org/resource/Kolp_River
+чудово,приток,колва,река,пермский край,Чудова	http://dbpedia.org/resource/Chudova_River
+кимжа,приток,мезень,река,архангельский область,Кимжа	http://dbpedia.org/resource/Kimzha_River
+оккервиль,река,нева,санкт-петербург,ленинградский область,Оккервиль	http://dbpedia.org/resource/Okkervil_River_(Neva_basin)
+волчина,река,волга,тверская область,Волчина	http://dbpedia.org/resource/Volchina_River
+сож,река,черниговский область,гомельский область,могилевская область,европа,смоленский область,гомель,Сож	http://dbpedia.org/resource/Sozh_River
+сок,река,самарский область,оренбургский область,Сок	http://dbpedia.org/resource/Sok_River
+пуя,река,северный двина,архангельский область,Пуя	http://dbpedia.org/resource/Puya_River
+сясь,река,нева,ленинградский область,новгородский область,Сясь	http://dbpedia.org/resource/Syas_River
+улс,река,пермский край,Улс	http://dbpedia.org/resource/Uls_River
+ага,река,забайкальский край,Ага	http://dbpedia.org/resource/Aga_River
+ледь,река,северный двина,архангельский область,Ледь	http://dbpedia.org/resource/Led_River
+толшма,река,костромской область,северный двина,вологодский область,Толшма	http://dbpedia.org/resource/Tolshma_River
+сочи,река,сочи,краснодарский край,Сочи	http://dbpedia.org/resource/Sochi_River
+туманный,река,приморский край,корейский народно-демократический республика,азия,гирин,Туманная	http://dbpedia.org/resource/Tumen_River
+джурич,приток,южный кельтма,река,пермский край,Джурич	http://dbpedia.org/resource/Dzhurich_River
+кияук,река,башкортостан,Кияук	http://dbpedia.org/resource/Kiyauk_River
+вазуза,река,смоленский область,тверская область,Вазуза	http://dbpedia.org/resource/Vazuza_River
+ящер,река,ленинградский область,Ящера	http://dbpedia.org/resource/Yashchera_River
+бубывать,приток,колва,река,пермский край,Бубыл	http://dbpedia.org/resource/Bubyl_River
+малый енисей,река,монголия,азия,тыва,Малый Енисей	http://dbpedia.org/resource/Little_Yenisei_River
+вологда,река,северный двина,вологодский область,Вологда	http://dbpedia.org/resource/Vologda_River
+шешма,река,самарский область,татарстан,Шешма	http://dbpedia.org/resource/Sheshma_River
+чусовая,река,челябинский область,пермский край,свердловский область,Чусовая	http://dbpedia.org/resource/Chusovaya_River
+юрюзань,река,челябинский область,башкортостан,Юрюзань	http://dbpedia.org/resource/Yuryuzan_River
+вижаиха,приток,колва,река,пермский край,Вижаиха	http://dbpedia.org/resource/Vizhaikha_River_(Kolva_River)
+бард,приток,сылвы,река,пермский край,Барда	http://dbpedia.org/resource/Barda_River
+вожега,река,вологодский область,Вожега	http://dbpedia.org/resource/Vozhega_River
+сива,приток,кама,река,пермский край,удмуртия,Сива	http://dbpedia.org/resource/Siva_River
+абакан,река,хакасия,Абакан	http://dbpedia.org/resource/Abakan_River
+пизь,река,башкортостан,пермский край,удмуртия,Пизь	http://dbpedia.org/resource/Piz_River
+виледь,река,северный двина,архангельский область,Виледь	http://dbpedia.org/resource/Viled_River
+западный лицо,река,баренцев море,мурманский область,Западная Лица	http://dbpedia.org/resource/Zapadnaya_Litsa_River
+керженец,река,нижегородский область,Керженец	http://dbpedia.org/resource/Kerzhenets_River
+кондурчать,река,самарский область,татарстан,Кондурча	http://dbpedia.org/resource/Kondurcha_River
+поронай,река,сахалинский область,Поронай	http://dbpedia.org/resource/Poronay_River
+шелонь,река,псковский область,нева,новгородский область,Шелонь	http://dbpedia.org/resource/Shelon_River
+тес-хем,река,монголия,азия,тыва,Тес-Хем	http://dbpedia.org/resource/Tes_River
+рова,приток,йоканга,река,мурманский область,Рова	http://dbpedia.org/resource/Rova_River
+тосна,река,нева,ленинградский область,Тосна	http://dbpedia.org/resource/Tosna_River
+колва,приток,вишера,река,пермский край,Колва	http://dbpedia.org/resource/Kolva_River_(Perm_Krai)
+кокшеньга,река,северный двина,архангельский область,вологодский область,Кокшеньга	http://dbpedia.org/resource/Kokshenga_River
+еруслан,река,саратовский область,волгоградский область,Еруслан	http://dbpedia.org/resource/Yeruslan_River
+псоу,река,грузия,краснодарский край,азия,европа,абхазия,Псоу	http://dbpedia.org/resource/Psou_River
+вишера,приток,вычегда,река,республика коми,Вишера	http://dbpedia.org/resource/Vishera_River_(Komi_Republic)
+вычегда,река,северный двина,архангельский область,республика коми,Вычегда	http://dbpedia.org/resource/Vychegda_River
+шаква,река,пермский край,Шаква	http://dbpedia.org/resource/Shakva_River
+валдайка,река,нева,тверская область,новгородский область,Валдайка	http://dbpedia.org/resource/Valdayka_River
+пеза,река,архангельский область,Пёза	http://dbpedia.org/resource/Pyoza_River
+тулома,река,тулома,мурманский область,Тулома	http://dbpedia.org/resource/Tuloma_River
+ашит,река,татарстан,марья эл,Ашит	http://dbpedia.org/resource/Ashit_River
+умба,река,мурманский область,Умба	http://dbpedia.org/resource/Umba_River_(Russia)
+андома,река,нева,вологодский область,Андома	http://dbpedia.org/resource/Andoma_River
+мык,приток,улс,река,пермский край,Мыка	http://dbpedia.org/resource/Myka_River
+тур,река,тюменский область,свердловский область,Тура	http://dbpedia.org/resource/Tura_River
+пыж,река,кама,пермский край,Пыж	http://dbpedia.org/resource/Pyzh_River
+пол,река,нева,тверская область,новгородский область,Пола	http://dbpedia.org/resource/Pola_River
+виловатый,приток,вялый,река,мурманский область,Виловатая	http://dbpedia.org/resource/Vilovataya_(tributary_of_Vyala)
+ковда,река,мурманский область,республика,Ковда	http://dbpedia.org/resource/Kovda_River
+малый кокшаг,река,марья эл,Малая Кокшага	http://dbpedia.org/resource/Malaya_Kokshaga_River
+кол,река,баренцев море,мурманский область,Кола	http://dbpedia.org/resource/Kola_River
+оять,река,нева,ленинградский область,вологодский область,Оять	http://dbpedia.org/resource/Oyat_River
+большой золотанк,река,пермский край,Большая Золотанка	http://dbpedia.org/resource/Bolshaya_Zolotanka_River
+нюзим,река,пермский край,республика коми,Нюзим	http://dbpedia.org/resource/Nyuzim_River
+шлин,река,нева,тверская область,Шлина	http://dbpedia.org/resource/Shlina_River
+вель,приток,вага,река,северный двина,архангельский область,Вель	http://dbpedia.org/resource/Vel_River_(Arkhangelsk_Oblast)
+большой ик,приток,сакмара,река,оренбургский область,башкортостан,Большой Ик	http://dbpedia.org/resource/Bolshoy_Ik_River
+кубня,река,татарстан,чувашия,Кубня	http://dbpedia.org/resource/Kubnya_River
+зайя,река,татарстан,Зай	http://dbpedia.org/resource/Zay_River
+судома,река,псковский область,Судома	http://dbpedia.org/resource/Sudoma_River
+няризивать,приток,колва,река,пермский край,Няризь	http://dbpedia.org/resource/Nyariz_River
+акчим,река,пермский край,Акчим	http://dbpedia.org/resource/Akchim_River
+большой кундыш,река,волга,марья эл,Большой Кундыш	http://dbpedia.org/resource/Bolshoy_Kundysh_River
+полисть,приток,ловать,река,псковский область,нева,новгородский область,Полисть	http://dbpedia.org/resource/Polist_River
+редья,река,нева,новгородский область,Редья	http://dbpedia.org/resource/Redya_River
+актай,приток,волга,река,татарстан,Актай	http://dbpedia.org/resource/Aktay_River
+свидеть,река,архангельский область,Свидь	http://dbpedia.org/resource/Svid_River
+асс,приток,сунжа,река,ингушетия,грузия,чечня,Асса	http://dbpedia.org/resource/Assa_River_(Sunzha_River)
+паша,приток,свирь,река,нева,ленинградский область,Паша	http://dbpedia.org/resource/Pasha_River
+кубен,река,северный двина,архангельский область,вологодский область,Кубена	http://dbpedia.org/resource/Kubena_River
+водла,река,нева,республика,Водла	http://dbpedia.org/resource/Vodla_River
+перетный,река,нева,новгородский область,Перетна	http://dbpedia.org/resource/Peretna_River
+бия,река,республика алтай,обь,алтайский край,Бия	http://dbpedia.org/resource/Biya_River
+сурье,приток,улс,река,пермский край,Сурья	http://dbpedia.org/resource/Surya_River
+гдовка,река,псковский область,Гдовка	http://dbpedia.org/resource/Gdovka_River
+тойма,приток,кама,река,татарстан,удмуртия,Тойма	http://dbpedia.org/resource/Toyma_River
+кым,река,архангельский область,Кыма	http://dbpedia.org/resource/Kyma_River
+култый,река,пермский край,Култым	http://dbpedia.org/resource/Kultym_River
+вилюй,река,якутия,красноярский край,лена,Вилюй	http://dbpedia.org/resource/Vilyuy_River
+лежать,река,северный двина,вологодский область,Лежа	http://dbpedia.org/resource/Lezha_River
+педедзе,река,эстония,европа,латвия,Педедзе	http://dbpedia.org/resource/Pededze
+сула,приток,мезень,река,архангельский область,Сула	http://dbpedia.org/resource/Sula_River_(Mezen)
+сулак,река,дагестан,Сулак	http://dbpedia.org/resource/Sulak_River
+трубеж,река,  плещеево озеро,ярославский область,переславль-залесский,Трубеж	http://dbpedia.org/resource/Trubezh_River
+самара,приток,волга,река,самарский область,оренбургский область,Самара	http://dbpedia.org/resource/Samara_River
+великий,река,  псковский озеро,псковский область,Великая	http://dbpedia.org/resource/Velikaya_River
+буй,приток,кама,река,волга,башкортостан,пермский край,удмуртия,Буй	http://dbpedia.org/resource/Buy_River
+пукшеньга,река,северный двина,архангельский область,Пукшеньга	http://dbpedia.org/resource/Pukshenga_River
+шах,река,сочи,краснодарский край,Шахе	http://dbpedia.org/resource/Shakhe_River
+шегарка,река,обь,новосибирский область,томский область,Шегарка	http://dbpedia.org/resource/Shegarka_River
+анабар,река,море лаптев,якутия,Анабар	http://dbpedia.org/resource/Anabar_River
+селижаровка,река,тверская область,Селижаровка	http://dbpedia.org/resource/Selizharovka_River
+вуоснайок,река,мурманский область,Вуоснайоки	http://dbpedia.org/resource/Vuosnayoki_River
+псел,река,курская область,белгородский область,полтавский область,сумский область,Псёл	http://dbpedia.org/resource/Psel_River
+мга,река,нева,ленинградский область,Мга	http://dbpedia.org/resource/Mga_River
+май,приток,алдан,река,якутия,Мая	http://dbpedia.org/resource/Maya_River
+саба,река,ленинградский область,Саба	http://dbpedia.org/resource/Saba_River
+колвица,река,колвица,мурманский область,Колвица	http://dbpedia.org/resource/Kolvitsa_River
+кондом,река,кемеровский область,обь,Кондома	http://dbpedia.org/resource/Kondoma_River
+сие,река,челябинский область,башкортостан,Сим	http://dbpedia.org/resource/Sim_River
+Иж,приток,кама,река,татарстан,удмуртия,Иж	http://dbpedia.org/resource/Izh_River
+аргунь,река,азия,амур,внутренний монголия,забайкальский край,Аргунь	http://dbpedia.org/resource/Argun_River_(Asia)
+савать,река,воронежский область,тамбовский область,Савала	http://dbpedia.org/resource/Savala_River
+меш,река,татарстан,Мёша	http://dbpedia.org/resource/Myosha_River
+осковать,река,нева,новгородский область,Оскуя	http://dbpedia.org/resource/Oskuya_River
+айя,приток,колва,река,пермский край,Айя	http://dbpedia.org/resource/Ayya_River
+важинка,река,нева,ленинградский область,республика,Важинка	http://dbpedia.org/resource/Vazhinka_River
+кобожа,река,волга,новгородский область,вологодский область,Кобожа	http://dbpedia.org/resource/Kobozha_River
+охта,приток,нева,река,санкт-петербург,ленинградский область,Охта	http://dbpedia.org/resource/Okhta_River_(Neva_basin)
+мацест,река,краснодарский край,Мацеста	http://dbpedia.org/resource/Matsesta_River
+свияга,река,татарстан,ульяновский область,Свияга	http://dbpedia.org/resource/Sviyaga_River
+ижма,приток,печора,река,печора,республика коми,Ижма	http://dbpedia.org/resource/Izhma_River
+пясина,река,карский море,красноярский край,Пясина	http://dbpedia.org/resource/Pyasina_River
+куолайок,река,финляндия,мурманский область,Куолайоки	http://dbpedia.org/resource/Kuolajoki
+выя,приток,пинега,река,северный двина,архангельский область,Выя	http://dbpedia.org/resource/Vyya_River
+шоша,река,московский область,тверская область,Шоша	http://dbpedia.org/resource/Shosha_River
+холова,река,нева,новгородский область,Холова	http://dbpedia.org/resource/Kholova_River
+бездна,приток,сура,река,чувашия,Бездна	http://dbpedia.org/resource/Bezdna_River,_Chuvashia
+шкотовка,река,приморский край,Шкотовка	http://dbpedia.org/resource/Shkotovka_River
+обва,река,кама,пермский край,Обва	http://dbpedia.org/resource/Obva_River
+шилка,река,амур,забайкальский край,Шилка	http://dbpedia.org/resource/Shilka_River
+аныль,река,пермский край,республика коми,Аныль	http://dbpedia.org/resource/Anyl_River
+чаваньга,река,мурманский область,Чаваньга	http://dbpedia.org/resource/Chavanga_River
+луза,река,кировский область,северный двина,вологодский область,республика коми,Луза	http://dbpedia.org/resource/Luza_River
+рутка,река,марья эл,Рутка	http://dbpedia.org/resource/Rutka_River
+сейм,река,курская область,белгородский область,сумский область,Сейм	http://dbpedia.org/resource/Seym_River
+могоча,приток,осень,река,волга,тверская область,Могоча	http://dbpedia.org/resource/Mogocha_River
+кичевать,река,татарстан,Кичуй	http://dbpedia.org/resource/Kichuy_River
+вуокса,река,финляндия,нева,ленинградский область,Вуокса	http://dbpedia.org/resource/Vuoksi_River
+ватсиманйок,река,мурманский область,Ватсиманйоки	http://dbpedia.org/resource/Vatsimanyoki_River
+вув,река,тулома,мурманский область,Вува	http://dbpedia.org/resource/Vuva_River
+нижний тойма,река,северный двина,архангельский область,Нижняя Тойма	http://dbpedia.org/resource/Nizhnyaya_Toyma_River
+серебрянка,приток,хапиловка,река,московский область,москва,Серебрянка	http://dbpedia.org/resource/Serebryanka_River_(Moscow)
+сулица,приток,свияга,река,татарстан,Сулица	http://dbpedia.org/resource/Sulitsa_River
+тверец,река,тверская область,Тверца	http://dbpedia.org/resource/Tvertsa_River
+капша,река,нева,ленинградский область,Капша	http://dbpedia.org/resource/Kapsha_River
+ливенка,река,орловский область,Ливенка	http://dbpedia.org/resource/Livenka_River
+асовка,река,пермский край,Асовка	http://dbpedia.org/resource/Asovka_River
+сура,приток,волга,река,нижегородский область,чувашия,пензенский область,ульяновский область,республика,Сура	http://dbpedia.org/resource/Sura_River
+пруженка,река,московский область,волга,Пружёнка	http://dbpedia.org/resource/Pruzhonka_River
+око,приток,ангара,река,республика,иркутский область,Ока	http://dbpedia.org/resource/Oka_River_(Siberia)
+вишера,приток,кама,река,пермский край,Вишера	http://dbpedia.org/resource/Vishera_River_(Perm_Krai)
+осуг,приток,вазуза,река,волга,смоленский область,тверская область,Осуга	http://dbpedia.org/resource/Osuga_River_(Vazuza)
+уфа,река,челябинский область,кама,башкортостан,свердловский область,Уфа	http://dbpedia.org/resource/Ufa_River
+самур,река,азербайджан,дагестан,Самур	http://dbpedia.org/resource/Samur_River
+томь,приток,обь,река,кемеровский область,хакасия,томский область,Томь	http://dbpedia.org/resource/Tom_River
+глухой вильва,река,пермский край,Глухая Вильва	http://dbpedia.org/resource/Glukhaya_Vilva_River
+соян,река,архангельский область,Сояна	http://dbpedia.org/resource/Soyana_River
+сюнь,река,татарстан,башкортостан,Сюнь	http://dbpedia.org/resource/Syun_River
+мойва,приток,вишера,река,пермский край,Мойва	http://dbpedia.org/resource/Moyva_River
+кичменьга,река,северный двина,вологодский область,Кичменьга	http://dbpedia.org/resource/Kichmenga_River
+ваеньга,река,северный двина,архангельский область,Ваеньга	http://dbpedia.org/resource/Vayenga_River
+лупкий-савино,река,лупкий-савино,мурманский область,Лупче-Савино	http://dbpedia.org/resource/Lupche-Savino_River
+южный кельтма,река,пермский край,Южная Кельтма	http://dbpedia.org/resource/South_Keltma_River
+аргун,река,грузия,чечня,азия,европа,Аргун	http://dbpedia.org/resource/Argun_River_(Caucasus)
+тифин,река,волга,тверская область,Тифина	http://dbpedia.org/resource/Tifina_River
+селеть,река,пермский край,Селея	http://dbpedia.org/resource/Seleya_River
+белый,река,  большой имандра,нива,мурманский область,Белая	http://dbpedia.org/resource/Belaya_River_(Imandra)
+бездна,приток,волга,река,татарстан,Бездна	http://dbpedia.org/resource/Bezdna_River,_Tatarstan
+судно,река,  рыбинский водохранилище,вологодский область,Суда	http://dbpedia.org/resource/Suda_River
+лумбовка,река,мурманский область,Лумбовка	http://dbpedia.org/resource/Lumbovka_River
+кен,приток,онега,река,архангельский область,Кена	http://dbpedia.org/resource/Kena_River
+пойма,река,приморский край,Пойма	http://dbpedia.org/resource/Poyma_River
+мехреньга,река,северный двина,архангельский область,Мехреньга	http://dbpedia.org/resource/Mekhrenga_River
+молога,река,тверская область,новгородский область,вологодский область,Молога	http://dbpedia.org/resource/Mologa_River
+эртиль,река,воронежский область,тамбовский область,Эртиль	http://dbpedia.org/resource/Ertil_River
+чагода,приток,молога,река,волга,ленинградский область,вологодский область,Чагода	http://dbpedia.org/resource/Chagodoshcha_River
+амба,река,  амурский залив,приморский край,Амба	http://dbpedia.org/resource/Amba_River
+малый кундыш,река,волга,марья эл,Малый Кундыш	http://dbpedia.org/resource/Maly_Kundysh_River
+вага,приток,северный двина,река,северный двина,архангельский область,вологодский область,Вага	http://dbpedia.org/resource/Vaga_River
+териберка,река,баренцев море,мурманский область,Териберка	http://dbpedia.org/resource/Teriberka_River
+северный двина,река,северный двина,архангельский область,вологодский область,Северная Двина	http://dbpedia.org/resource/Northern_Dvina_River
+кула,река,  белый море,архангельский область,Кулой	http://dbpedia.org/resource/Kuloy_River_(White_Sea)
+любосеевка,река,московский область,волга,Любосеевка	http://dbpedia.org/resource/Lyuboseyevka_River
+большой кокшаг,река,марья эл,Большая Кокшага	http://dbpedia.org/resource/Bolshaya_Kokshaga_River
+рост,река,баренцев море,мурманский область,Роста	http://dbpedia.org/resource/Rosta_River
+сестра,река,  сестрорецкий разлив,карелия (исторический область),санкт-петербург,ленинградский область,Сестра	http://dbpedia.org/resource/Sestra_River_(Leningrad_Oblast)
+низьва,река,пермский край,Низьва	http://dbpedia.org/resource/Nizva_River
+медведица,приток,волга,река,тверская область,Медведица	http://dbpedia.org/resource/Medveditsa_River_(Volga_basin)
+илекс,река,  водлозеро,нева,архангельский область,республика,Илекса	http://dbpedia.org/resource/Ileksa_River
+луг,река,ленинградский область,новгородский область,Луга	http://dbpedia.org/resource/Luga_River
+мулянка,река,пермский край,Мулянка	http://dbpedia.org/resource/Mulyanka_River
+волошка,река,архангельский область,Волошка	http://dbpedia.org/resource/Voloshka_River
+ловать,река,псковский область,европа,нева,витебский область,новгородский область,Ловать	http://dbpedia.org/resource/Lovat_River
+чибитка,река,республика алтай,Чибитка	http://dbpedia.org/resource/Chibit_River
+велс,река,пермский край,Велс	http://dbpedia.org/resource/Vels_River
+сороть,река,псковский область,Сороть	http://dbpedia.org/resource/Sorot_River
+урал,река,каспийский море,челябинский область,казахстан,сибирь,оренбургский область,азия,европа,башкортостан,Урал	http://dbpedia.org/resource/Ural_River
+лотта,река,тулома,финляндия,мурманский область,Лотта	http://dbpedia.org/resource/Lutto_(river)
+ик,приток,кама,река,татарстан,башкортостан,Ик	http://dbpedia.org/resource/Ik_River
+северский донец,река,ростовский область,европа,донецкий каменноугольный бассейн,белгородский область,донецкий область,харьковский область,луганский область,Северский Донец	http://dbpedia.org/resource/Donets
+емца,река,северный двина,архангельский область,Емца	http://dbpedia.org/resource/Yemtsa_River
+тулпан,река,пермский край,Тулпан	http://dbpedia.org/resource/Tulpan_River
+серг,приток,варзуга,река,мурманский область,Серга	http://dbpedia.org/resource/Serga_River_(Murmansk_Oblast)
+десна,приток,днепр,река,черниговский область,брянский область,европа,смоленский область,Десна	http://dbpedia.org/resource/Desna_River
+белый,приток,кама,река,башкортостан,Белая	http://dbpedia.org/resource/Belaya_River_(Kama)
+песя,река,волга,новгородский область,вологодский область,Песь	http://dbpedia.org/resource/Pes_River
+нижний тунгуска,река,иркутский область,красноярский край,енисей,Нижняя Тунгуска	http://dbpedia.org/resource/Nizhnyaya_Tunguska_River
+енисей,река,карский море,хакасия,красноярский край,Енисей	http://dbpedia.org/resource/Yenisei_River
+выг,река,выг,республика,Выг	http://dbpedia.org/resource/Vyg_River
+кем,река,  белый озеро,волга,вологодский область,Кема	http://dbpedia.org/resource/Kema_River
+алдан,река,якутия,лена,Алдан	http://dbpedia.org/resource/Aldan_River
+утрой,река,псковский область,латвия,Утроя	http://dbpedia.org/resource/Utroya_River
+полоть,река,псковский область,европа,витебский область,Полота	http://dbpedia.org/resource/Palata_River
+шожма,река,архангельский область,Шожма	http://dbpedia.org/resource/Shozhma_River
+вашка,река,архангельский область,республика коми,Вашка	http://dbpedia.org/resource/Vashka_River
+большой черемшан,река,самарский область,татарстан,ульяновский область,Большой Черемшан	http://dbpedia.org/resource/Bolshoy_Cheremshan_River
+обводный канал,река,санкт-петербург,Обводный канал	http://dbpedia.org/resource/Obvodny_Canal
+ворьем,река,баренцев море,серый-варангер,европа,финнмарк,мурманский область,Ворьема	http://dbpedia.org/resource/Jakobselva_(Sør-Varanger)
+шуя,река,  логмозеро,нева,республика,Шуя	http://dbpedia.org/resource/Shuya_River_(Karelia)
+малый белый,река,  имандра,нива,мурманский область,Малая Белая	http://dbpedia.org/resource/Malaya_Belaya_River_(Imandra)
+зея,река,амур,амурский область,Зея	http://dbpedia.org/resource/Zeya_River
+псков,река,псковский область,Пскова	http://dbpedia.org/resource/Pskova_River
+онега,река,архангельский область,Онега	http://dbpedia.org/resource/Onega_River
+яуза,река,московский область,волга,москва,Яуза	http://dbpedia.org/resource/Yauza_River
+анадырь,река,чукотский автономный округ,Анадырь	http://dbpedia.org/resource/Anadyr_River
+синий,приток,великий,река,псковский область,латвия,витебский область,Синяя	http://dbpedia.org/resource/Sinyaya_River
+кодина,река,архангельский область,Кодина	http://dbpedia.org/resource/Kodina_River
+сухотыль,река,пермский край,республика коми,Сухотыль	http://dbpedia.org/resource/Sukhotyl_River
+сямжен,река,северный двина,вологодский область,Сямжена	http://dbpedia.org/resource/Syamzhena_River
+крынка,река,ростовский область,луганский область,Крынка	http://dbpedia.org/resource/Krynka_River
+охота,река,хабаровский край,Охота	http://dbpedia.org/resource/Okhota_River
+кочечум,река,красноярский край,Кочечум	http://dbpedia.org/resource/Kochechum_River
+чапаевка,приток,волга,река,самарский область,Чапаевка	http://dbpedia.org/resource/Chapayevka_River
+молмыс,река,пермский край,Молмыс	http://dbpedia.org/resource/Molmys_River
+молебка,приток,асовка,река,пермский край,Молёбка	http://dbpedia.org/resource/Molyobka_River_(Asovka_River)
+андийский койс,река,каспийский море,грузия,дагестан,Андийское Койсу	http://dbpedia.org/resource/Andi_Koysu
+истра,река,московский область,волга,Истра	http://dbpedia.org/resource/Istra_River
+лосмин,река,смоленский область,Лосмина	http://dbpedia.org/resource/Losmina_River
+лжа,река,псковский область,европа,латвия,Лжа	http://dbpedia.org/resource/Ludza_River
+корожечна,река,ярославский область,волга,тверская область,Корожечна	http://dbpedia.org/resource/Korozhechna_River
+патсойок,река,финляндия,европа,финнмарк,мурманский область,Патсойоки	http://dbpedia.org/resource/Paatsjoki
+иртыш,река,омский область,тюменский область,синьцзян-уйгурский автономный район,казахстан,азия,китайский народный республика,обь,ханты-мансийский автономный округ — югра,Иртыш	http://dbpedia.org/resource/Irtysh_River
+кула,приток,вага,река,северный двина,архангельский область,вологодский область,Кулой	http://dbpedia.org/resource/Kuloy_River_(Vaga)
+андог,река,волга,вологодский область,Андога	http://dbpedia.org/resource/Andoga_River
+молодо,река,якутия,лена,Молодо	http://dbpedia.org/resource/Molodo_River
+шарженьга,река,северный двина,вологодский область,Шарженьга	http://dbpedia.org/resource/Sharzhenga_River
+западный двина,река,европа,латвия,смоленский область,тверская область,витебский область,Западная Двина	http://dbpedia.org/resource/Daugava_(river)
+осуг,приток,тверец,река,волга,тверская область,Осуга	http://dbpedia.org/resource/Osuga_River_(Tvertsa)
+поной,река,поной,мурманский область,Поной	http://dbpedia.org/resource/Ponoy_River
+вонгода,река,северный двина,архангельский область,Вонгода	http://dbpedia.org/resource/Vongoda_River
+кухв,река,псковский область,европа,латвия,Кухва	http://dbpedia.org/resource/Kukhva_River
+сунжа,приток,терек,река,ингушетия,чечня,северный осетия,Сунжа	http://dbpedia.org/resource/Sunzha_River
+большой невка,река,нева,санкт-петербург,Большая Невка	http://dbpedia.org/resource/Bolshaya_Nevka_River
+малиновка,приток,большой уссурок,река,приморский край,Малиновка	http://dbpedia.org/resource/Malinovka_River_(Primorsky_Krai)
+пчевжа,река,нева,ленинградский область,новгородский область,Пчёвжа	http://dbpedia.org/resource/Pchyovzha_River
+кутсайок,река,мурманский область,Кутсайоки	http://dbpedia.org/resource/Kutsayoki_River
+печора,река,печора,республика коми,ненецкий автономный округ,Печора	http://dbpedia.org/resource/Pechora_River
+индигирка,река,восточно-сибирский море,якутия,Индигирка	http://dbpedia.org/resource/Indigirka_River
+буреть,река,амур,амурский область,хабаровский край,Бурея	http://dbpedia.org/resource/Bureya_River
+терешок,река,саратовский область,ульяновский область,Терешка	http://dbpedia.org/resource/Tereshka_River
+язьва,река,кама,пермский край,Язьва	http://dbpedia.org/resource/Yazva_River
+нерль,приток,волга,река,ярославский область,тверская область,Нерль	http://dbpedia.org/resource/Nerl_River_(Volga)
+пель,приток,улс,река,пермский край,Пеля	http://dbpedia.org/resource/Pelya_River
+кара,река,ямало-ненецкий автономный округ,республика коми,ненецкий автономный округ,Кара	http://dbpedia.org/resource/Kara_River
+волчий,приток,вуокса,река,ленинградский область,Волчья	http://dbpedia.org/resource/Volchya_River_(Vuoksi_tributary)
+березайка,река,нева,тверская область,новгородский область,Березайка	http://dbpedia.org/resource/Berezayka_River
+малый иргиз,река,саратовский область,Малый Иргиз	http://dbpedia.org/resource/Maly_Irgiz_River
+двиница,река,северный двина,вологодский область,Двиница	http://dbpedia.org/resource/Dvinitsa_River
+дема,река,башкортостан,Дёма	http://dbpedia.org/resource/Dyoma_River
+цна,река,  мстина,нева,тверская область,Цна	http://dbpedia.org/resource/Tsna_River_(Tver_Oblast)
+пьяный,река,нижегородский область,волга,республика,Пьяна	http://dbpedia.org/resource/Pyana_River
+волхов,река,нева,ленинградский область,новгородский область,Волхов	http://dbpedia.org/resource/Volkhov_River
+мста,река,нева,тверская область,новгородский область,Мста	http://dbpedia.org/resource/Msta_River
+колыма,река,восточно-сибирский море,магаданский область,якутия,чукотский автономный округ,Колыма	http://dbpedia.org/resource/Kolyma_River
+тудовка,река,волга,тверская область,Тудовка	http://dbpedia.org/resource/Tudovka_River
+варзуга,река,белый море,мурманский область,Варзуга	http://dbpedia.org/resource/Varzuga_River
+шексна,река,вологодский область,Шексна	http://dbpedia.org/resource/Sheksna_River
+плюсса,река,псковский область,ленинградский область,Плюсса	http://dbpedia.org/resource/Plyussa_River
+мезенский пижма,река,архангельский область,республика коми,Мезенская Пижма	http://dbpedia.org/resource/Mezenskaya_Pizhma_River
+контровод,река,приморский край,Контровод	http://dbpedia.org/resource/Kontrovod_River
+косьва,река,пермский край,свердловский область,Косьва	http://dbpedia.org/resource/Kosva_River
+немнюга,приток,кулой,река,архангельский область,Немнюга	http://dbpedia.org/resource/Nemnyuga_River
+желча,река,псковский область,Желча	http://dbpedia.org/resource/Zhelcha_River
+мош,река,архангельский область,Моша	http://dbpedia.org/resource/Mosha_River
+медведица,приток,дон,река,саратовский область,волгоградский область,Медведица	http://dbpedia.org/resource/Medveditsa_River_(Don_basin)
+кутить,река,пермский край,Кутим	http://dbpedia.org/resource/Kutim_River
+сылва,река,пермский край,свердловский область,Сылва	http://dbpedia.org/resource/Sylva_River
+мудыль,река,пермский край,Мудыль	http://dbpedia.org/resource/Mudyl_River
+ыгыатта,река,якутия,лена,Ыгыатта	http://dbpedia.org/resource/Ygyatta_River
+алоля,река,псковский область,Алоля	http://dbpedia.org/resource/Alolya_River
+юшут,река,марья эл,Юшут	http://dbpedia.org/resource/Yushut_River
+амгунь,река,хабаровский край,Амгунь	http://dbpedia.org/resource/Amgun_River
+сухона,река,северный двина,вологодский область,Сухона	http://dbpedia.org/resource/Sukhona_River
+свирь,река,нева,ленинградский область,Свирь	http://dbpedia.org/resource/Svir_River
+покшеньга,река,северный двина,архангельский область,Покшеньга	http://dbpedia.org/resource/Pokshenga_River
+тенниейок,река,финляндия,мурманский область,Тенниёйоки	http://dbpedia.org/resource/Tenniöjoki
+лух,река,нижегородский область,волга,владимирский область,ивановский область,Лух	http://dbpedia.org/resource/Lukh_River
+кубань,река,азы,краснодарский край,кубань (регион),республика,карачаево-черкесия,ставропольский край,Кубань	http://dbpedia.org/resource/Kuban_River
+ежуга,приток,пинега,река,северный двина,архангельский область,республика коми,Ёжуга	http://dbpedia.org/resource/Yezhuga_River
+сова,приток,шаква,река,пермский край,Сова	http://dbpedia.org/resource/Sova_River
+тымь,река,сахалинский область,Тымь	http://dbpedia.org/resource/Tym_River,_Sakhalin
+большой иргиз,река,самарский область,саратовский область,Большой Иргиз	http://dbpedia.org/resource/Bolshoy_Irgiz_River
+стрельна,река,  белый море,белый море,мурманский область,Стрельна	http://dbpedia.org/resource/Strelna_River
+черех,река,псковский область,Черёха	http://dbpedia.org/resource/Cheryokha_River
+березовка,река,  чусовской озеро,пермский край,Берёзовка	http://dbpedia.org/resource/Beryozovka_River_(Perm_Krai)
+индига,река,ненецкий автономный округ,Индига	http://dbpedia.org/resource/Indiga_River
+мезень,река,архангельский область,республика коми,Мезень	http://dbpedia.org/resource/Mezen_River
+раздольный,река,приморский край,хэйлунцзян,Раздольная	http://dbpedia.org/resource/Razdolnaya_River
+ю,река,республика коми,Ю	http://dbpedia.org/resource/Yu_River_(Russia)
+кумай,приток,колва,река,пермский край,Кумай	http://dbpedia.org/resource/Kumay_River
+обь,река,карский море,сибирь,алтайский край,ханты-мансийский автономный округ — югра,новосибирский область,томский область,ямало-ненецкий автономный округ,Обь	http://dbpedia.org/resource/Ob_River
+межа,приток,западный двина,река,смоленский область,тверская область,Межа	http://dbpedia.org/resource/Mezha_River_(Western_Dvina)
+уфтюга,приток,северный двина,река,северный двина,архангельский область,Уфтюга	http://dbpedia.org/resource/Uftyuga_River_(Arkhangelsk_Oblast)
+арсеньевка,река,приморский край,Арсеньевка	http://dbpedia.org/resource/Arsenyevka_River
+онон,река,монголия,азия,забайкальский край,Онон	http://dbpedia.org/resource/Onon_River
+уржумок,река,кировский область,марья эл,кама,Уржумка	http://dbpedia.org/resource/Urzhumka_River
+плавица,приток,матыра,река,липецкий область,воронежский область,тамбовский область,Плавица	http://dbpedia.org/resource/Plavitsa_River
+зимний золотица,река,архангельский область,Зимняя Золотица	http://dbpedia.org/resource/Zolotitsa_River
+илеш,река,северный двина,архангельский область,республика коми,Илеша	http://dbpedia.org/resource/Ilesha_River
+пежма,приток,вага,река,северный двина,архангельский область,вологодский область,Пежма	http://dbpedia.org/resource/Pezhma_River
+вах,река,ханты-мансийский автономный округ — югра,Вах	http://dbpedia.org/resource/Vakh_River
+пинега,река,северный двина,архангельский область,Пинега	http://dbpedia.org/resource/Pinega_River
+амга,река,якутия,Амга	http://dbpedia.org/resource/Amga_River
+нера,приток,индигирка,река,якутия,Нера	http://dbpedia.org/resource/Nera_River_(Russia)
+полометь,река,нева,новгородский область,Полометь	http://dbpedia.org/resource/Polomet_River
+исеть,река,свердловский область,Исеть	http://dbpedia.org/resource/Iset_River
+северный сосьва,река,ханты-мансийский автономный округ — югра,Северная Сосьва	http://dbpedia.org/resource/Severnaya_Sosva_River
+тихвинка,река,нева,ленинградский область,Тихвинка	http://dbpedia.org/resource/Tikhvinka_River
+ижора,река,ингерманландия,нева,санкт-петербург,ленинградский область,Ижора	http://dbpedia.org/resource/Izhora_River
+вишерка,река,пермский край,Вишерка	http://dbpedia.org/resource/Visherka_River
+яренга,река,северный двина,архангельский область,республика коми,Яренга	http://dbpedia.org/resource/Yarenga_River
+уфтюга,приток,сухона,река,северный двина,вологодский область,Уфтюга	http://dbpedia.org/resource/Uftyuga_River_(Sukhona)
+ясачная,река,якутия,Ясачная	http://dbpedia.org/resource/Yasachnaya_River
+куний,приток,ловать,река,псковский область,нева,тверская область,новгородский область,Кунья	http://dbpedia.org/resource/Kunya_River
+ангар,река,иркутский область,красноярский край,енисей,Ангара	http://dbpedia.org/resource/Angara_River
+ухта,приток,ижма,река,печора,республика коми,Ухта	http://dbpedia.org/resource/Ukhta_River
+нева,река,ингерманландия,санкт-петербург,ленинградский область,Нева	http://dbpedia.org/resource/Neva_River
+вятка,река,татарстан,кировский область,удмуртия,Вятка	http://dbpedia.org/resource/Vyatka_River
+бусэин-гол,река,монголия,тыва,Бусэин-Гол	http://dbpedia.org/resource/Büsein_River
+серебрянка,приток,учить,река,московский область,москва,Серебрянка	http://dbpedia.org/resource/Serebryanka_River_(Moscow_Oblast)
+ямжач,река,пермский край,Ямжач	http://dbpedia.org/resource/Yamzhach_River
+кама,река,татарстан,пермский край,удмуртия,Кама	http://dbpedia.org/resource/Kama_River
+темерник,река,ростовский область,Темерник	http://dbpedia.org/resource/Temernik_River
+виловатый,река,  белый море,мурманский область,Виловатая	http://dbpedia.org/resource/Vilovataya_(river_flowing_into_White_Sea)
+днепр,река,киев,черкасский область,днепропетровский область,гомельский область,херсонский область,могилевская область,запорожский область,европа,смоленский область,витебский область,полтавский область,Днепр	http://dbpedia.org/resource/Dnieper
+сухой,приток,йоканга,река,мурманский область,Сухая	http://dbpedia.org/resource/Sukhaya_River
+уверять,река,нева,новгородский область,Уверь	http://dbpedia.org/resource/Uver_River
+цильма,река,печора,архангельский область,республика коми,Цильма	http://dbpedia.org/resource/Tsilma_River
+ишим,река,омский область,тюменский область,казахстан,азия,Ишим	http://dbpedia.org/resource/Ishim_River
+ворскла,река,белгородский область,полтавский область,сумский область,Ворскла	http://dbpedia.org/resource/Vorskla_River
+кашинка,река,тверская область,Кашинка	http://dbpedia.org/resource/Kashinka_River
+харьков,река,белгородский область,харьковский область,Харьков	http://dbpedia.org/resource/Kharkiv_River
+иньва,река,кама,пермский край,Иньва	http://dbpedia.org/resource/Inva_River
+мзымта,река,сочи,краснодарский край,Мзымта	http://dbpedia.org/resource/Mzymta_River
+большой цивиль,река,чувашия,Большой Цивиль	http://dbpedia.org/resource/Tsivil_River
+весляна,приток,кама,река,кама,пермский край,Весляна	http://dbpedia.org/resource/Veslyana_River
+карповка,рукав нева,река,нева,санкт-петербург,Карповка	http://dbpedia.org/resource/Karpovka_River
+оредеж,река,ленинградский область,Оредеж	http://dbpedia.org/resource/Oredezh_River
+ветлуга,река,костромской область,нижегородский область,кировский область,марья эл,Ветлуга	http://dbpedia.org/resource/Vetluga_River
+око,река,московский область,нижегородский область,тульский область,калужский область,рязанский область,владимирский область,орловский область,Ока	http://dbpedia.org/resource/Oka_River
+березовый,приток,колва,река,пермский край,Берёзовая	http://dbpedia.org/resource/Beryozovaya_River
+варзин,река,варзин,мурманский область,Варзина	http://dbpedia.org/resource/Varzina_River
+усвяч,река,псковский область,витебский область,Усвяча	http://dbpedia.org/resource/Usvyacha_River
+бузан,река,астраханский область,волга,Бузан	http://dbpedia.org/resource/Buzan_River
+тигода,река,нева,ленинградский область,новгородский область,Тигода	http://dbpedia.org/resource/Tigoda_River
+егошиха,река,пермский край,Егошиха	http://dbpedia.org/resource/Yegoshikha_River
+волга,река,астраханский область,калмыкия,костромской область,московский область,нижегородский область,самарский область,саратовский область,татарстан,волгоградский область,ярославский область,чувашия,каспийский море,тверская область,Волга	http://dbpedia.org/resource/Volga_River
+рыбинка,приток,яуза,река,московский область,москва,Рыбинка	http://dbpedia.org/resource/Rybenka_River
+юла,приток,пинега,река,северный двина,архангельский область,Юла	http://dbpedia.org/resource/Yula_River
+сай,приток,шаква,река,пермский край,Сая	http://dbpedia.org/resource/Saya_River
+тулгас,приток,северный двина,река,северный двина,архангельский область,Тулгас	http://dbpedia.org/resource/Tulgas_River
+тулва,река,пермский край,Тулва	http://dbpedia.org/resource/Tulva_River_(Russia)
+наутсийок,река,мурманский область,Наутсийоки	http://dbpedia.org/resource/Nautsiyoki_River
+ковжа,река,  белый озеро,волга,вологодский область,Ковжа	http://dbpedia.org/resource/Kovzha_River
+бартый,приток,шаква,река,пермский край,Бартым	http://dbpedia.org/resource/Bartym_River
+сакмара,река,оренбургский область,башкортостан,Сакмара	http://dbpedia.org/resource/Sakmara_River
+пиуз,река,эстония,псковский область,пылвамаа,вырумаа,европа,Пиуза	http://dbpedia.org/resource/Piusa_(river)
+осень,река,волга,тверская область,Осень	http://dbpedia.org/resource/Osen_River
+сумка,приток,нижний  волга,река,татарстан,Сумка	http://dbpedia.org/resource/Sumka_River
+вытегра,река,нева,вологодский область,Вытегра	http://dbpedia.org/resource/Vytegra_River
+лена,река,якутия,иркутский область,Лена	http://dbpedia.org/resource/Lena_River
+вымь,река,республика коми,Вымь	http://dbpedia.org/resource/Vym_River
+судость,река,черниговский область,брянский область,Судость	http://dbpedia.org/resource/Sudost_River
+катунь,река,республика алтай,обь,алтайский край,Катунь	http://dbpedia.org/resource/Katun_River
+шешупе,река,литва,польша,европа,калининградский область,Шешупе	http://dbpedia.org/resource/Šešupė
+обша,река,смоленский область,тверская область,Обша	http://dbpedia.org/resource/Obsha_River

@@ -1,0 +1,136 @@
+эворон,озеро,хабаровский край,Эворон	http://dbpedia.org/resource/Lake_Evoron
+жижицкий,озеро,псковский область,Жижицкое	http://dbpedia.org/resource/Lake_Zhizhitskoye
+ундозеро,озеро,архангельский область,Ундозеро	http://dbpedia.org/resource/Lake_Undozero
+лача,озеро,архангельский область,Лача	http://dbpedia.org/resource/Lake_Lacha
+нижний пруд,калининград,озеро,кенигсберг,калининградский область,Нижний пруд	http://dbpedia.org/resource/Lower_Pond_(Kaliningrad)
+юрхямяярви,озеро,мурманский область,Юрхямяярви	http://dbpedia.org/resource/Lake_Yurkhyamyayarvi
+семеновский озеро,озеро,мурманский область,Семёновское озеро	http://dbpedia.org/resource/Lake_Semyonovskoye
+колвицкий озеро,озеро,колвица,мурманский область,Колвицкое озеро	http://dbpedia.org/resource/Lake_Kolvitskoye
+иваньковский водохранилище,озеро,московский область,тверская область,Иваньковское водохранилище	http://dbpedia.org/resource/Ivankovo_Reservoir
+лама,озеро,красноярский край,Лама	http://dbpedia.org/resource/Lake_Lama
+сенница,озеро,псковский область,Сенница	http://dbpedia.org/resource/Lake_Sennitsa
+ессей,озеро,красноярский край,Ессей	http://dbpedia.org/resource/Lake_Yessey
+рыбинский водохранилище,озеро,вологодский область,тверская область,ярославский область,Рыбинское водохранилище	http://dbpedia.org/resource/Rybinsk_Reservoir
+карымское,озеро,камчатский край,Карымское	http://dbpedia.org/resource/Karymsky_Lake
+нотозеро,бассейн тулома,озеро,мурманский область,тулома,Нотозеро	http://dbpedia.org/resource/Lake_Notozero
+лекшмозеро,озеро,архангельский область,Лёкшмозеро	http://dbpedia.org/resource/Lake_Lyokshmozero
+хасан,озеро,корейский народно-демократический республика,приморский край,Хасан	http://dbpedia.org/resource/Lake_Khasan
+куйто,озеро,республика,Куйто	http://dbpedia.org/resource/Kuyto
+кенозеро,озеро,архангельский область,Кенозеро	http://dbpedia.org/resource/Lake_Kenozero
+тургояк,озеро,челябинский область,Тургояк	http://dbpedia.org/resource/Lake_Turgoyak
+пюхяярви,карелия,озеро,европа,финляндия,республика,нева,Пюхяярви	http://dbpedia.org/resource/Pyhäjärvi_(Karelia)
+пено,озеро,волга,тверская область,Пено	http://dbpedia.org/resource/Lake_Peno
+айраг-нуур,озеро,монголия,Айраг-Нуур	http://dbpedia.org/resource/Airag_Lake
+моготоев,озеро,якутия,Моготоево	http://dbpedia.org/resource/Lake_Mogotoyevo
+стерж,озеро,волга,тверская область,Стерж	http://dbpedia.org/resource/Lake_Sterzh
+энгозеро,озеро,республика,Энгозеро	http://dbpedia.org/resource/Lake_Engozero
+морской глаз,озеро,геоморфология,карст,марья эл,Морской Глаз	http://dbpedia.org/resource/Sea_Eye_Lake
+телецкий,озеро,республика алтай,обь,Телецкое	http://dbpedia.org/resource/Lake_Teletskoye
+болонь,озеро,хабаровский край,Болонь	http://dbpedia.org/resource/Lake_Bolon
+абрау,озеро,кавказ,краснодарский край,Абрау	http://dbpedia.org/resource/Lake_Abrau
+тулос,озеро,республика,нева,Тулос	http://dbpedia.org/resource/Lake_Tulos
+ковжской,озеро,волга,вологодский область,Ковжское	http://dbpedia.org/resource/Lake_Kovzhskoye
+ильмень,озеро,нева,новгородский область,Ильмень	http://dbpedia.org/resource/Lake_Ilmen
+горьковский водохранилище,озеро,ярославский область,костромской область,ивановский область,нижегородский область,Горьковское водохранилище	http://dbpedia.org/resource/Gorky_Reservoir
+чукчагирский озеро,озеро,хабаровский край,Чукчагирское озеро	http://dbpedia.org/resource/Lake_Chukchagirskoye
+саратовский водохранилище,озеро,самарский область,саратовский область,Саратовское водохранилище	http://dbpedia.org/resource/Saratov_Reservoir
+лабаз,озеро,красноярский край,Лабаз	http://dbpedia.org/resource/Lake_Labaz
+сегозеро,озеро,выг,республика,Сегозеро	http://dbpedia.org/resource/Lake_Segozero
+могильный,озеро,мурманский область,Могильное	http://dbpedia.org/resource/Mogilnoye
+имандра,озеро,мурманский область,нива,Имандра	http://dbpedia.org/resource/Lake_Imandra
+енозеро,озеро,мурманский область,варзин,Ёнозеро	http://dbpedia.org/resource/Lake_Yonozero
+гусиный,озеро, бурятия,республика,Гусиное	http://dbpedia.org/resource/Lake_Gusinoye
+сапшо,озеро,россия,смоленский область,Сапшо	http://dbpedia.org/resource/Lake_Sapsho
+ладожский озеро,озеро,ленинградский область,республика,нева,Ладожское озеро	http://dbpedia.org/resource/Lake_Ladoga
+бросный,озеро,тверская область,Бросно	http://dbpedia.org/resource/Lake_Brosno
+убс-нур,озеро,монголия,азия,тыва,Убсу-Нур	http://dbpedia.org/resource/Uvs_Lake
+новозеро,озеро,вологодский область,Новозеро	http://dbpedia.org/resource/Lake_Novozero
+кета,озеро,красноярский край,Кета	http://dbpedia.org/resource/Lake_Keta
+шунет,озеро,хакасия,Шунет	http://dbpedia.org/resource/Lake_Shunet
+клистерватна,озеро,европа,мурманский область,серый-варангер,финнмарк,Клистерватн	http://dbpedia.org/resource/Klistervatnet
+орель,озеро,хабаровский край,Орель	http://dbpedia.org/resource/Lake_Orel
+бустах,озеро,якутия,Бустах	http://dbpedia.org/resource/Lake_Bustakh
+братский водохранилище,озеро,иркутский область,Братское водохранилище	http://dbpedia.org/resource/Bratsk_Reservoir
+красноярский водохранилище,озеро,красноярский край,Красноярское водохранилище	http://dbpedia.org/resource/Krasnoyarsk_Reservoir
+вялозеро,озеро,мурманский область,Вялозеро	http://dbpedia.org/resource/Lake_Vyalozero
+большой токо,озеро,якутия,Большое Токо	http://dbpedia.org/resource/Lake_Bolshoye_Toko
+белый озеро,вологодский область,озеро,волга,Белое озеро	http://dbpedia.org/resource/Lake_Beloye_(Vologda_Oblast)
+галичский озеро,озеро,костромской область,Галичское озеро	http://dbpedia.org/resource/Lake_Galichskoye
+чейбеккель,озеро,республика алтай,Чейбеккёль	http://dbpedia.org/resource/Lake_Cheybek-Kohl
+кубенское озеро,озеро,северный двина,вологодский область,Кубенское озеро	http://dbpedia.org/resource/Lake_Kubenskoye
+чусовской,озеро, пермский край,россия,пермский край,Чусовское	http://dbpedia.org/resource/Lake_Chusovskoye
+ковдозеро,озеро,мурманский область,Ковдозеро	http://dbpedia.org/resource/Lake_Kovdozero
+сарпа,озеро, волгоградский область,калмыкия,Сарпа	http://dbpedia.org/resource/Lake_Sarpa
+кожозеро,озеро,архангельский область,Кожозеро	http://dbpedia.org/resource/Lake_Kozhozero
+валдайский озеро,озеро,новгородский область,Валдайское озеро	http://dbpedia.org/resource/Lake_Valdayskoye
+экитык,озеро,чукотский автономный округ,Экитыки	http://dbpedia.org/resource/Ekityki_Lake
+удыль,озеро,хабаровский край,Удыль	http://dbpedia.org/resource/Lake_Udyl
+байкал,озеро,россия,земля,иркутский область,республика,сибирь,бурятия,Байкал	http://dbpedia.org/resource/Lake_Baikal
+яльчик,озеро,марья эл,Яльчик	http://dbpedia.org/resource/Lake_Yalchik
+каспийский море,озеро,европа,иран,казахстан,россия,туркмения,азия,азербайджан,Каспийское море	http://dbpedia.org/resource/Caspian_Sea
+кильдинский,озеро,мурманский область,тулома,Кильдинское	http://dbpedia.org/resource/Lake_Kildinskoye
+варш,озеро,ненецкий автономный округ,архангельский область,Варш	http://dbpedia.org/resource/Lake_Varsh
+волгоградский водохранилище,озеро,волга,волгоградский область,саратовский область,Волгоградское водохранилище	http://dbpedia.org/resource/Volgograd_Reservoir
+чудский-псковский озеро,озеро,европа,эстония,йыгевамаа,псковский область,тартумаа,Чудско-Псковское озеро	http://dbpedia.org/resource/Lake_Peipus
+виштынецкий озеро,озеро,европа,литва,калининградский область,Виштынецкое озеро	http://dbpedia.org/resource/Lake_Vištytis
+кулундинский озеро,озеро,россия,алтайский край,Кулундинское озеро	http://dbpedia.org/resource/Lake_Kulundinskoye
+суходольский озеро,озеро,ленинградский область,нева,Суходольское озеро	http://dbpedia.org/resource/Lake_Sukhodolskoye
+кривой,озеро, челябинский область,челябинский область,Кривое	http://dbpedia.org/resource/Krivoye_Lake
+пончозеро,озеро,мурманский область,Пончозеро	http://dbpedia.org/resource/Lake_Ponchozero
+хары-нуур,бассейн тээл,озеро,монголия,Хар-Нуур	http://dbpedia.org/resource/Khar_Lake_(Khovd)
+белый озеро,рязанский область, северный,озеро,рязанский область,Белое озеро	http://dbpedia.org/resource/Lake_Beloye,_Ryazan_Oblast
+белый озеро,нижегородский область,озеро,россия,Белое озеро	http://dbpedia.org/resource/Lake_Beloye_(Nizhny_Novgorod_Oblast)
+чан,озеро,новосибирский область,Чаны	http://dbpedia.org/resource/Lake_Chany
+илирный,озеро,чукотский автономный округ,Илирней	http://dbpedia.org/resource/Lake_Ilirney
+лупкий,озеро,мурманский область,лупкий-савино,Лупче	http://dbpedia.org/resource/Lake_Lupche
+чухломской озеро,озеро,костромской область,Чухломское озеро	http://dbpedia.org/resource/Lake_Chukhloma
+пяозеро,озеро,республика,Пяозеро	http://dbpedia.org/resource/Lake_Pyaozero
+канозеро,озеро,мурманский область,Канозеро	http://dbpedia.org/resource/Lake_Kanozero
+аргазинский водохранилище,озеро,челябинский область,Аргазинское водохранилище	http://dbpedia.org/resource/Argazi_Reservoir
+воуватусъярви,озеро,мурманский область,серый-варангер,Воуватусъярви	http://dbpedia.org/resource/Vouvatusjärvi
+кабан,озеро,казань,татарстан,Кабан	http://dbpedia.org/resource/Kaban_Lakes
+чебаркуль,озеро,челябинский область,Чебаркуль	http://dbpedia.org/resource/Lake_Chebarkul
+верхний пруд,калининград,озеро,кенигсберг,калининградский область,Верхний пруд	http://dbpedia.org/resource/Upper_Pond_(Kaliningrad)
+цимлянское водохранилище,озеро,волгоградский область,ростовский область,Цимлянское водохранилище	http://dbpedia.org/resource/Tsimlyansk_Reservoir
+сямозеро,озеро,республика,нева,Сямозеро	http://dbpedia.org/resource/Lake_Syamozero
+хантайский озеро,озеро,красноярский край,Хантайское озеро	http://dbpedia.org/resource/Lake_Khantayskoye
+глубокий,озеро, красноярский край,красноярский край,Глубокое	http://dbpedia.org/resource/Lake_Glubokoye_(Putorana)
+кезенойам,озеро,чечня,Кезенойам	http://dbpedia.org/resource/Lake_Kezenoyam
+таймыр,озеро,красноярский край,россия,Таймыр	http://dbpedia.org/resource/Lake_Taymyr
+айке,озеро,европа,казахстан,россия,азия,оренбургский область,Айке	http://dbpedia.org/resource/Lake_Aike
+кереть,озеро,республика,Кереть	http://dbpedia.org/resource/Lake_Keret
+нарвский водохранилище,озеро,европа,ленинградский область,Нарвское водохранилище	http://dbpedia.org/resource/Narva_Reservoir
+ханка,озеро,китайский народный республика,маньчжурия,дальний восток россия,азия,россия,приморский край,Ханка	http://dbpedia.org/resource/Lake_Khanka
+маныч-гудило,озеро,кавказ,ставропольский край,калмыкия,ростовский область,Маныч-Гудило	http://dbpedia.org/resource/Lake_Manych-Gudilo
+волго,озеро,волга,тверская область,Волго	http://dbpedia.org/resource/Lake_Volgo
+онежский озеро,озеро,вологодский область,ленинградский область,республика,нева,Онежское озеро	http://dbpedia.org/resource/Lake_Onega
+чудзьявр,озеро,мурманский область,вороний,Чудзьявр	http://dbpedia.org/resource/Lake_Chudzyavr
+выгозеро,озеро,выг,республика,Выгозеро	http://dbpedia.org/resource/Lake_Vygozero
+селигер,озеро,волга,тверская область,новгородский область,Селигер	http://dbpedia.org/resource/Lake_Seliger
+сенеж,озеро,московский область,Сенеж	http://dbpedia.org/resource/Senezh_Lake
+угличский водохранилище,озеро,тверская область,ярославский область,Угличское водохранилище	http://dbpedia.org/resource/Uglich_Reservoir
+тикшеозеро,озеро,мурманский область,россия,республика,Тикшеозеро	http://dbpedia.org/resource/Lake_Tikshozero
+лексозеро,озеро,республика,нева,Лексозеро	http://dbpedia.org/resource/Lake_Leksozero
+воткинский водохранилище,озеро,пермский край,удмуртия,Воткинское водохранилище	http://dbpedia.org/resource/Votkinsk_Reservoir
+нюк,озеро,республика,Нюк	http://dbpedia.org/resource/Lake_Nyuk
+баскунчак,озеро,россия,астраханский область,европа,Баскунчак	http://dbpedia.org/resource/Lake_Baskunchak
+нижнекамский водохранилище,озеро,татарстан,пермский край,удмуртия,башкортостан,Нижнекамское водохранилище	http://dbpedia.org/resource/Nizhnekamsk_Reservoir
+янисъярви,озеро,республика,нева,россия,Янисъярви	http://dbpedia.org/resource/Lake_Yanisyarvi
+шекснинский водохранилище,озеро,волга,вологодский область,Шекснинское водохранилище	http://dbpedia.org/resource/Sheksna_Reservoir
+кизя,озеро,хабаровский край,Кизи	http://dbpedia.org/resource/Lake_Kizi
+пясино,озеро,красноярский край,Пясино	http://dbpedia.org/resource/Lake_Pyasino
+тоджа,озеро,тыва,Тоджа	http://dbpedia.org/resource/Todzha_Lake
+топозеро,озеро,республика,Топозеро	http://dbpedia.org/resource/Lake_Topozero
+ожогино,озеро,якутия,Ожогино	http://dbpedia.org/resource/Lake_Ozhogino
+банный,озеро,башкортостан,Банное	http://dbpedia.org/resource/Lake_Bannoye
+эльтон,озеро,россия,волгоградский область,европа,Эльтон	http://dbpedia.org/resource/Lake_Elton
+шира,озеро,хакасия,Шира	http://dbpedia.org/resource/Lake_Shira
+вселуга,озеро,волга,тверская область,Вселуг	http://dbpedia.org/resource/Lake_Vselug
+хары-ус-нуур,ховд,озеро,монголия,Хар-Ус-Нуур	http://dbpedia.org/resource/Khar-Us_Lake
+водлозеро,озеро,республика,нева,Водлозеро	http://dbpedia.org/resource/Lake_Vodlozero
+виви,озеро,красноярский край,Виви	http://dbpedia.org/resource/Lake_Vivi
+вож,озеро,вологодский область,Воже	http://dbpedia.org/resource/Lake_Vozhe
+плещеево озеро,озеро,переславль-залесский,ярославский область,Плещеево озеро	http://dbpedia.org/resource/Lake_Pleshcheyevo
+умбозеро,озеро,мурманский область,Умбозеро	http://dbpedia.org/resource/Lake_Umbozero
+куйбышевский водохранилище,озеро,волга,татарстан,самарский область,ульяновский область,чувашия,Куйбышевское водохранилище	http://dbpedia.org/resource/Kuybyshev_Reservoir
+неро,озеро,ярославский область,Неро	http://dbpedia.org/resource/Lake_Nero
