@@ -22,15 +22,3 @@ class Token:
         self.syntax = conll_line[-3]
         self.parent = int(conll_line[-4]) - 1
         self.number = int(conll_line[0]) - 1
-
-
-class RootToken():
-    def __init__(self):
-        self.surface = ""
-        self.lemma = ""
-        self.pos = ""
-        self.grammar = ""
-        self.annotation = []
-        self.parent = 0
-        self.syntax = ""
-        self.number = 0

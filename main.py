@@ -3,10 +3,10 @@ from Tree import Tree
 from subprocess import call
 
 script_path = "/Users/ulyanasidorova/Development/ru-syntax/ru-syntax.py"
-in_path = "/Users/ulyanasidorova/Development/RusNER/test.txt"
-out_path = "/Users/ulyanasidorova/Development/ru-syntax/out/result.txt"
+in_path = "/Users/ulyanasidorova/Development/RusNER/test_data/test.txt"
+out_path = "/Users/ulyanasidorova/Development/RusNER/output/test_out.txt"
 syntax_call_line = "python3"
-# call(["python3", script_path, "-o", out_path, in_path])
+call(["python3", script_path, "-o", out_path, in_path])
 
 sentences = []
 prev = 0
